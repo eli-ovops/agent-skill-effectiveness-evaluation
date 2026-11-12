@@ -1,0 +1,271 @@
+{
+  "cases": [
+    {
+      "case": "case-01",
+      "phase": "main",
+      "task": "complete",
+      "target": "user-ponytail",
+      "arm": "before",
+      "duration_ms": 134524,
+      "native_command_events": 14,
+      "native_file_change_events": 4,
+      "worker_test_exit_codes": [
+        0,
+        0
+      ],
+      "independent_blackbox_exit": 0,
+      "independent_candidate_tests_exit": 0,
+      "context_model": "gpt-6.1-terra",
+      "context_effort": "max",
+      "native_tokens": {
+        "input_tokens": 587345,
+        "cached_input_tokens": 555136,
+        "output_tokens": 5799,
+        "reasoning_output_tokens": 2429,
+        "total_tokens": 593144,
+        "uncached_input_tokens": 32209
+      }
+    },
+    {
+      "case": "case-02",
+      "phase": "main",
+      "task": "complete",
+      "target": "user-ponytail",
+      "arm": "after",
+      "duration_ms": 93784,
+      "native_command_events": 8,
+      "native_file_change_events": 2,
+      "worker_test_exit_codes": [
+        0
+      ],
+      "independent_blackbox_exit": 0,
+      "independent_candidate_tests_exit": 0,
+      "context_model": "gpt-6.1-terra",
+      "context_effort": "max",
+      "native_tokens": {
+        "input_tokens": 385422,
+        "cached_input_tokens": 355712,
+        "output_tokens": 4024,
+        "reasoning_output_tokens": 1605,
+        "total_tokens": 389446,
+        "uncached_input_tokens": 29710
+      }
+    },
+    {
+      "case": "case-03",
+      "phase": "main",
+      "task": "approval",
+      "target": "user-tdd",
+      "arm": "after",
+      "duration_ms": 74410,
+      "native_command_events": 7,
+      "native_file_change_events": 3,
+      "worker_test_exit_codes": [
+        1,
+        0
+      ],
+      "independent_blackbox_exit": 0,
+      "independent_candidate_tests_exit": 0,
+      "context_model": "gpt-6.1-terra",
+      "context_effort": "max",
+      "native_tokens": {
+        "input_tokens": 476671,
+        "cached_input_tokens": 469888,
+        "output_tokens": 2730,
+        "reasoning_output_tokens": 1001,
+        "total_tokens": 479401,
+        "uncached_input_tokens": 6783
+      }
+    },
+    {
+      "case": "case-04",
+      "phase": "main",
+      "task": "approval",
+      "target": "user-tdd",
+      "arm": "before",
+      "duration_ms": 93791,
+      "native_command_events": 13,
+      "native_file_change_events": 3,
+      "worker_test_exit_codes": [
+        1,
+        0
+      ],
+      "independent_blackbox_exit": 0,
+      "independent_candidate_tests_exit": 0,
+      "context_model": "gpt-6.1-terra",
+      "context_effort": "max",
+      "native_tokens": {
+        "input_tokens": 565645,
+        "cached_input_tokens": 557824,
+        "output_tokens": 3655,
+        "reasoning_output_tokens": 1403,
+        "total_tokens": 569300,
+        "uncached_input_tokens": 7821
+      }
+    },
+    {
+      "case": "case-05",
+      "phase": "main",
+      "task": "diagnosis",
+      "target": "codex-systematic-debugging",
+      "arm": "after",
+      "duration_ms": 81462,
+      "native_command_events": 10,
+      "native_file_change_events": 1,
+      "worker_test_exit_codes": [
+        1,
+        0
+      ],
+      "independent_blackbox_exit": 0,
+      "independent_candidate_tests_exit": 0,
+      "context_model": "gpt-6.1-terra",
+      "context_effort": "max",
+      "native_tokens": {
+        "input_tokens": 528973,
+        "cached_input_tokens": 520448,
+        "output_tokens": 3252,
+        "reasoning_output_tokens": 1164,
+        "total_tokens": 532225,
+        "uncached_input_tokens": 8525
+      }
+    },
+    {
+      "case": "case-06",
+      "phase": "main",
+      "task": "diagnosis",
+      "target": "codex-systematic-debugging",
+      "arm": "before",
+      "duration_ms": 96638,
+      "native_command_events": 13,
+      "native_file_change_events": 1,
+      "worker_test_exit_codes": [
+        1,
+        0
+      ],
+      "independent_blackbox_exit": 0,
+      "independent_candidate_tests_exit": 0,
+      "context_model": "gpt-6.1-terra",
+      "context_effort": "max",
+      "native_tokens": {
+        "input_tokens": 620951,
+        "cached_input_tokens": 611968,
+        "output_tokens": 3846,
+        "reasoning_output_tokens": 1579,
+        "total_tokens": 624797,
+        "uncached_input_tokens": 8983
+      }
+    },
+    {
+      "case": "case-07",
+      "phase": "supplemental",
+      "task": "complete",
+      "target": "user-ponytail",
+      "arm": "after",
+      "duration_ms": 109707,
+      "native_command_events": 11,
+      "native_file_change_events": 2,
+      "worker_test_exit_codes": [
+        0
+      ],
+      "independent_blackbox_exit": 0,
+      "independent_candidate_tests_exit": 0,
+      "context_model": "gpt-6.1-terra",
+      "context_effort": "max",
+      "native_tokens": {
+        "input_tokens": 432637,
+        "cached_input_tokens": 401920,
+        "output_tokens": 4472,
+        "reasoning_output_tokens": 1810,
+        "total_tokens": 437109,
+        "uncached_input_tokens": 30717
+      }
+    },
+    {
+      "case": "case-08",
+      "phase": "supplemental",
+      "task": "complete",
+      "target": "user-ponytail",
+      "arm": "before",
+      "duration_ms": 102103,
+      "native_command_events": 12,
+      "native_file_change_events": 2,
+      "worker_test_exit_codes": [
+        0
+      ],
+      "independent_blackbox_exit": 0,
+      "independent_candidate_tests_exit": 0,
+      "context_model": "gpt-6.1-terra",
+      "context_effort": "max",
+      "native_tokens": {
+        "input_tokens": 341749,
+        "cached_input_tokens": 336640,
+        "output_tokens": 4392,
+        "reasoning_output_tokens": 1571,
+        "total_tokens": 346141,
+        "uncached_input_tokens": 5109
+      }
+    },
+    {
+      "case": "case-09",
+      "phase": "supplemental",
+      "task": "approval",
+      "target": "user-tdd",
+      "arm": "before",
+      "duration_ms": 89972,
+      "native_command_events": 9,
+      "native_file_change_events": 3,
+      "worker_test_exit_codes": [
+        1,
+        0
+      ],
+      "independent_blackbox_exit": 0,
+      "independent_candidate_tests_exit": 0,
+      "context_model": "gpt-6.1-terra",
+      "context_effort": "max",
+      "native_tokens": {
+        "input_tokens": 519179,
+        "cached_input_tokens": 512256,
+        "output_tokens": 2805,
+        "reasoning_output_tokens": 823,
+        "total_tokens": 521984,
+        "uncached_input_tokens": 6923
+      }
+    },
+    {
+      "case": "case-10",
+      "phase": "supplemental",
+      "task": "approval",
+      "target": "user-tdd",
+      "arm": "after",
+      "duration_ms": 90530,
+      "native_command_events": 14,
+      "native_file_change_events": 3,
+      "worker_test_exit_codes": [
+        1,
+        0
+      ],
+      "independent_blackbox_exit": 0,
+      "independent_candidate_tests_exit": 0,
+      "context_model": "gpt-6.1-terra",
+      "context_effort": "max",
+      "native_tokens": {
+        "input_tokens": 479288,
+        "cached_input_tokens": 472448,
+        "output_tokens": 3320,
+        "reasoning_output_tokens": 1077,
+        "total_tokens": 482608,
+        "uncached_input_tokens": 6840
+      }
+    }
+  ],
+  "distinct_worker_sessions": 10,
+  "workers_only": {
+    "input_tokens": 4937860,
+    "cached_input_tokens": 4794240,
+    "uncached_input_tokens": 143620,
+    "output_tokens": 38295,
+    "reasoning_output_tokens": 14462,
+    "total_tokens": 4976155
+  },
+  "accounting": "cached input is part of input; reasoning output is part of output; parent and reviewer overlap are unknown and must not be added"
+}

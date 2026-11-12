@@ -1,0 +1,33 @@
+{
+  "turnId": "01a1c3db-219c-77b2-987b-36f02f45a219",
+  "events": [
+    {
+      "type": "subAgentActivity",
+      "id": "call_8203c421565646168ae4695d37171049",
+      "kind": "started",
+      "agentThreadId": "01a1c3e8-b951-7613-920f-83ad092bd358",
+      "agentPath": "/root/tdd_a"
+    },
+    {
+      "type": "subAgentActivity",
+      "id": "call_66b723ff684243b3947b4abf00d090c3",
+      "kind": "started",
+      "agentThreadId": "01a1c3e8-dc94-7b92-a305-371e5a834db8",
+      "agentPath": "/root/tdd_b"
+    },
+    {
+      "type": "subAgentActivity",
+      "id": "subagent-completed-01a1c3e8-ba35-7660-a805-ae8e5405f2a5",
+      "kind": "completed",
+      "agentThreadId": "01a1c3e8-b951-7613-920f-83ad092bd358",
+      "agentPath": "/root/tdd_a"
+    },
+    {
+      "type": "subAgentActivity",
+      "id": "subagent-completed-01a1c3e8-de3e-79c3-8218-9235e1977119",
+      "kind": "completed",
+      "agentThreadId": "01a1c3e8-dc94-7b92-a305-371e5a834db8",
+      "agentPath": "/root/tdd_b"
+    }
+  ]
+}

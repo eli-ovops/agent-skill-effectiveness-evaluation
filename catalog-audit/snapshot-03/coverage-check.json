@@ -1,0 +1,36 @@
+{
+  "verified_at_utc": "2026-11-10T05:24:54.904822+00:00",
+  "coverage": [
+    {
+      "root": "/Users/USER/.codex/skills",
+      "rg_count": 303,
+      "missing_from_snapshot": []
+    },
+    {
+      "root": "/Users/USER/.agents/skills",
+      "rg_count": 103,
+      "missing_from_snapshot": []
+    },
+    {
+      "root": "/Users/USER/Documents/skills/.agents/skills",
+      "rg_count": 8,
+      "missing_from_snapshot": []
+    },
+    {
+      "root": "/Users/USER/.codex/plugins/cache/openai-bundled",
+      "rg_count": 2,
+      "missing_from_snapshot": []
+    },
+    {
+      "root": "/Users/USER/.codex/plugins/cache/openai-curated-remote",
+      "rg_count": 92,
+      "missing_from_snapshot": []
+    },
+    {
+      "root": "/Users/USER/.codex/plugins/cache/openai-primary-runtime",
+      "rg_count": 6,
+      "missing_from_snapshot": []
+    }
+  ],
+  "missing_total": 0
+}

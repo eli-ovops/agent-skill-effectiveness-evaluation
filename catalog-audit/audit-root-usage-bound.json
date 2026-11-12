@@ -1,0 +1,17 @@
+{
+  "turn_started_utc": "2026-11-10T05:08:00+00:00",
+  "before_ordinal": 1050,
+  "before_timestamp": "2026-11-10T05:03:25.797Z",
+  "end_ordinal": 1631,
+  "end_timestamp": "2026-11-10T05:29:55.402Z",
+  "root_session_counter_delta": {
+    "input_tokens": 20362889,
+    "cached_input_tokens": 20273408,
+    "output_tokens": 63987,
+    "reasoning_output_tokens": 32094,
+    "total_tokens": 20426876
+  },
+  "noncached_input_tokens": 89481,
+  "child_session_inclusion": "UNKNOWN",
+  "fee": "UNKNOWN"
+}

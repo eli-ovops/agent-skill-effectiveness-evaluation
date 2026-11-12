@@ -1,0 +1,812 @@
+[
+  {
+    "path": "after/codex-dispatching-parallel-agents/SKILL.md",
+    "sha256": "081b78185d532efded195d6fb5a954c4a221f8b2107df67ad4effffe14774ea8",
+    "bytes": 6897
+  },
+  {
+    "path": "after/codex-executing-plans/SKILL.md",
+    "sha256": "1ef77d26696487425d91dc1f8ef72f494e66dcc601b309595a029d9ae7320658",
+    "bytes": 2985
+  },
+  {
+    "path": "after/codex-finesse-ui/SKILL.md",
+    "sha256": "8875e08c3a96e2f975b07037c382ab7e2b87bd829fb388942fd56f30ae5e010c",
+    "bytes": 73020
+  },
+  {
+    "path": "after/codex-finesse-ui/examples/EXAMPLES.md",
+    "sha256": "d4ff553f55b42894e0061bef016a9f6a8da54848db1a5274dfde4ffc1d421bb5",
+    "bytes": 21495
+  },
+  {
+    "path": "after/codex-finesse-ui/references/3d-effects.md",
+    "sha256": "ab5c8eeb2fb1afc7fc75c4866b5ebdaf856ae0dfd5a97fa7759db8459cd2c612",
+    "bytes": 13758
+  },
+  {
+    "path": "after/codex-finesse-ui/references/ai-console.md",
+    "sha256": "8914beb7a4c953713d35dac6cc60204ef6dd5a4f5d5504e75579037fdb1cb3af",
+    "bytes": 25716
+  },
+  {
+    "path": "after/codex-finesse-ui/references/anti-cheap.md",
+    "sha256": "d4688f17e823ab13628d3a56df4bda8e08bd21a62df1757ea8bea977da217467",
+    "bytes": 19168
+  },
+  {
+    "path": "after/codex-finesse-ui/references/asset-sourcing.md",
+    "sha256": "0934acc9b6dc59ab518fa73bcc6345480b249e1f4c8b32cd93b1da271c1c1b12",
+    "bytes": 5241
+  },
+  {
+    "path": "after/codex-finesse-ui/references/audit.md",
+    "sha256": "10e8a14601b90ebac14d27f593115353cfad290fad5eff30c7ff0875cb8d058b",
+    "bytes": 8851
+  },
+  {
+    "path": "after/codex-finesse-ui/references/chart-crafting.md",
+    "sha256": "151cc990741c11c3f0256c9730026da70f6b9a77dec48f5b628993c92d405276",
+    "bytes": 17655
+  },
+  {
+    "path": "after/codex-finesse-ui/references/commerce-ui.md",
+    "sha256": "c6a0a5e02c40e95b883fb004008a1a9d28524b79a34a49753d417a5c0c4621f3",
+    "bytes": 9295
+  },
+  {
+    "path": "after/codex-finesse-ui/references/component-scope.md",
+    "sha256": "4f68b16acc0972e86f33869634cde74018677b4e6d8f36f5ea54080d9eaddd94",
+    "bytes": 10426
+  },
+  {
+    "path": "after/codex-finesse-ui/references/dataviz.md",
+    "sha256": "c09046ff7c404ca886262c05a951eceb9babc45b83d527f8448319cc5c9ba05f",
+    "bytes": 14490
+  },
+  {
+    "path": "after/codex-finesse-ui/references/design-dna.md",
+    "sha256": "ed52ffd04b72bc1ab3dbdcb7510fb246943d3df403a6495b127977f692e1bffe",
+    "bytes": 14527
+  },
+  {
+    "path": "after/codex-finesse-ui/references/design-model.md",
+    "sha256": "96c2e84d27c1cba221efef787efe1b1579cce8739fdb19d4ad5cbc93736b5a76",
+    "bytes": 4932
+  },
+  {
+    "path": "after/codex-finesse-ui/references/divergence.md",
+    "sha256": "2c161dc9de9466b62289e259c654617f23f899c6b70f4d22de862bf9c96cd8f4",
+    "bytes": 25748
+  },
+  {
+    "path": "after/codex-finesse-ui/references/document.md",
+    "sha256": "1c1a84b18c8f1f481c82cde450b1974f742a0510b4a4e4dcb8ac069e7631b33e",
+    "bytes": 3181
+  },
+  {
+    "path": "after/codex-finesse-ui/references/h5-mobile.md",
+    "sha256": "12e9fbbc7829ee4424ba4f86efddd5fcd060832c8d111b6458eeabc74dfe7137",
+    "bytes": 38405
+  },
+  {
+    "path": "after/codex-finesse-ui/references/hero-engines.md",
+    "sha256": "27b40984aed27f9dd9796fe3862919d8c7e8303197c55d8d1d8e6cd093d68390",
+    "bytes": 23945
+  },
+  {
+    "path": "after/codex-finesse-ui/references/init.md",
+    "sha256": "f036e5bb20c4c0f53f9524ad595aac5e235875f8b4ac4c27dc47c4de9529f8e2",
+    "bytes": 4270
+  },
+  {
+    "path": "after/codex-finesse-ui/references/inspiration-catalog.md",
+    "sha256": "f0549a198fc1f60dd8a2ede0fe0643d105c13f2c0223a59daf2a2f42c6960a15",
+    "bytes": 11204
+  },
+  {
+    "path": "after/codex-finesse-ui/references/mobile-floor.md",
+    "sha256": "3df080bbcdc8a94c86e54a8faec692231ed502f740a49ae1e90d339ce9b92ffb",
+    "bytes": 8899
+  },
+  {
+    "path": "after/codex-finesse-ui/references/motion.md",
+    "sha256": "04fd6ee3d018e0bfa42bb777d137ec3901f488c29e5a54e34d8e73c9b1da1ede",
+    "bytes": 21361
+  },
+  {
+    "path": "after/codex-finesse-ui/references/page-crafting.md",
+    "sha256": "d3c11728f093f12589412f5d2c20eb6e639556556cf68203c0548c93a2cff42d",
+    "bytes": 34463
+  },
+  {
+    "path": "after/codex-finesse-ui/references/plain-words.md",
+    "sha256": "8bf6660db40128612300d7431e8dae788784f827803717ece6072558a8a776e2",
+    "bytes": 8281
+  },
+  {
+    "path": "after/codex-finesse-ui/references/preflight.md",
+    "sha256": "f149aeb745192525bf89d796e7b198424f328203e1e9e4d5a21e2591265c6f81",
+    "bytes": 17828
+  },
+  {
+    "path": "after/codex-finesse-ui/references/product-palettes.md",
+    "sha256": "cb13e76707bb21c7ce42fc8a97a90543735c52af54e0b95b9040c28b017e4a38",
+    "bytes": 24003
+  },
+  {
+    "path": "after/codex-finesse-ui/references/product-ui.md",
+    "sha256": "7120c76be6c1a35872d2c2dec21dd06c663c75b0f98c77e575f66b717561473b",
+    "bytes": 28776
+  },
+  {
+    "path": "after/codex-finesse-ui/references/redesign-mode.md",
+    "sha256": "22cdf3234080e90859bf22ba3f4739a52cb9d76c376bf92e372385a0cf4c0671",
+    "bytes": 5536
+  },
+  {
+    "path": "after/codex-finesse-ui/references/style-personas.md",
+    "sha256": "dc02da1d025ad987fed11ae8505f79c9f24dff0dd41792eccf1d008f92cbbdde",
+    "bytes": 5142
+  },
+  {
+    "path": "after/codex-finesse-ui/references/theming.md",
+    "sha256": "23dd20cd296edd0a0f861e179d59a2387d176f798d646c28777444e3719b616c",
+    "bytes": 6196
+  },
+  {
+    "path": "after/codex-finesse-ui/references/workflow-ui.md",
+    "sha256": "c7210c38844f9afe7243ddb8ea8aeda7a1a86cf08cf0cfb35ebcd12af0b38ce8",
+    "bytes": 18698
+  },
+  {
+    "path": "after/codex-onboarding-questionnaire/SKILL.md",
+    "sha256": "a5dce35a24993f586c84718d3a3ddf5d1b36961b86ad3504ebb39ce8ce266f88",
+    "bytes": 24080
+  },
+  {
+    "path": "after/codex-planning-with-files/SKILL.md",
+    "sha256": "5a03387f0d0b26e2d94e542948331e6f70b32ac35393fe3b440659ace8ac3d06",
+    "bytes": 30273
+  },
+  {
+    "path": "after/codex-planning-with-files/examples.md",
+    "sha256": "450355fac69e0fac93453b6c7383c8fb9ba3470662f6c8291080028f73ce00dc",
+    "bytes": 4518
+  },
+  {
+    "path": "after/codex-planning-with-files/reference.md",
+    "sha256": "f8b4edf7037a19cc4119f8cdc11dcda511da2d949328786202e0434d6044b830",
+    "bytes": 8066
+  },
+  {
+    "path": "after/codex-planning-with-files/templates/findings.md",
+    "sha256": "b5e64d73704daefa8492356d2c2c67ffeb78d79d448b316c0a0debc9226ad785",
+    "bytes": 3561
+  },
+  {
+    "path": "after/codex-planning-with-files/templates/progress.md",
+    "sha256": "a2366167ed178bc4a3c1d72ec6c5f6ea9e38aed67c6f3dd2c1a8cbdb4cde76b6",
+    "bytes": 4001
+  },
+  {
+    "path": "after/codex-planning-with-files/templates/task_plan.md",
+    "sha256": "03ab63b35434c8cf2375000762bb1f360db2e9b3a825810d0aee311bad5f49aa",
+    "bytes": 4613
+  },
+  {
+    "path": "after/codex-requesting-code-review/SKILL.md",
+    "sha256": "8b4a070eaf7633bb2167bf28a342c418cb9ca04a9f53cb2b8e92a1feab741dc2",
+    "bytes": 3739
+  },
+  {
+    "path": "after/codex-requesting-code-review/code-reviewer.md",
+    "sha256": "5eca5fcfd48a50e0a526ce5ffd64bf625d6b81bb46d11795274dae451fe6ffd4",
+    "bytes": 5669
+  },
+  {
+    "path": "after/codex-systematic-debugging/CREATION-LOG.md",
+    "sha256": "c24733a5b1821bd6bed1fc950261f0b9f4e90097e0bbb96459d8179713730789",
+    "bytes": 4257
+  },
+  {
+    "path": "after/codex-systematic-debugging/SKILL.md",
+    "sha256": "fb24d5f9912dddc415f84394da604f203c213ec5b44fefbf011d565895f28237",
+    "bytes": 11273
+  },
+  {
+    "path": "after/codex-systematic-debugging/condition-based-waiting.md",
+    "sha256": "e89fec8400d6cd50f43407cec9fab50976ba4d55d0ec2eb51c0bd68036b54c26",
+    "bytes": 3516
+  },
+  {
+    "path": "after/codex-systematic-debugging/defense-in-depth.md",
+    "sha256": "1e175fb86fc357e58c6aebf5441e481e1b7868b4380c0456b63a17eefbd18ba7",
+    "bytes": 3650
+  },
+  {
+    "path": "after/codex-systematic-debugging/root-cause-tracing.md",
+    "sha256": "6b0622269e098ca1399e123e553fd385f0b6412d88ef0e9c4f5a8ea9cf1cec7b",
+    "bytes": 5316
+  },
+  {
+    "path": "after/codex-systematic-debugging/test-academic.md",
+    "sha256": "fe2ba480d78ac0d686dc025f41c2a32a43d642bf533f91b0c6053a04d35d6486",
+    "bytes": 653
+  },
+  {
+    "path": "after/codex-systematic-debugging/test-pressure-1.md",
+    "sha256": "0b6a915db0054577819834c79be9eb614e97bddba10d73768e1fbe91cfed048a",
+    "bytes": 1900
+  },
+  {
+    "path": "after/codex-systematic-debugging/test-pressure-2.md",
+    "sha256": "b2030aeffba07050e8ad573ddf87486457c4a016a786bb326235bebd856f2016",
+    "bytes": 2283
+  },
+  {
+    "path": "after/codex-systematic-debugging/test-pressure-3.md",
+    "sha256": "96b50a52e2c7989c9cf20fb752c47c1e9a3a70dc362f8f7989f8f5b64dac7708",
+    "bytes": 2692
+  },
+  {
+    "path": "after/codex-using-git-worktrees/SKILL.md",
+    "sha256": "4f2342457f0267f9973ab3458740700ce84bdaabf3fdb3fd315f79f9347e56f4",
+    "bytes": 8181
+  },
+  {
+    "path": "after/project-design-taste-frontend/SKILL.md",
+    "sha256": "87efe6ffe91b61c5708c6a5e05d28bebe6f8828593d0d4933f9e26673f6da8f2",
+    "bytes": 87661
+  },
+  {
+    "path": "after/project-tdd/SKILL.md",
+    "sha256": "4a63dcb3b8b834f2aa3747c41eafaacff703711a50b5c30a12308afbac98d55f",
+    "bytes": 4694
+  },
+  {
+    "path": "after/project-tdd/deep-modules.md",
+    "sha256": "f2123700bf953db1740625686c75bdd145efd486357c47c6818c869fee657a32",
+    "bytes": 1239
+  },
+  {
+    "path": "after/project-tdd/interface-design.md",
+    "sha256": "764c5ff0e3fa6b4ab7095eb65ccc7201e090baf19fa16051dfdb72c06d27417d",
+    "bytes": 653
+  },
+  {
+    "path": "after/project-tdd/mocking.md",
+    "sha256": "3ceb807fdf4a47d6a93d4d9a891e5ba6d362a6247bd08adc451feebfc17361ef",
+    "bytes": 1481
+  },
+  {
+    "path": "after/project-tdd/refactoring.md",
+    "sha256": "54fced22dd1911b7094c3fe7979b7c1a40d40be307482c4adf7dc0588f27d6cc",
+    "bytes": 387
+  },
+  {
+    "path": "after/project-tdd/tests.md",
+    "sha256": "e12182f5c4c6a844b7c6ab4b8d2623b642aaaae5460fe58ed087efd4f3d5fb8a",
+    "bytes": 1640
+  },
+  {
+    "path": "after/user-agent-reach/SKILL.md",
+    "sha256": "90b3fd04ac37249d3fe5bc9004450904d8d71cb9cb3b1ca7d36373db57c70c9a",
+    "bytes": 5345
+  },
+  {
+    "path": "after/user-agent-reach/references/career.md",
+    "sha256": "e70badf6c860a55cc049c15cc5cef31ca0fa2a2ae9ae1f72ade24b91844c1a2f",
+    "bytes": 712
+  },
+  {
+    "path": "after/user-agent-reach/references/dev.md",
+    "sha256": "f6f91107557eacf1d28a023d597eb5a61353a8a6ede286c3c0a4888d274df9fe",
+    "bytes": 1383
+  },
+  {
+    "path": "after/user-agent-reach/references/search.md",
+    "sha256": "8eabfb645505148ea32e22e372c6d5a48615fba2e2f00eb8590e07464833851b",
+    "bytes": 821
+  },
+  {
+    "path": "after/user-agent-reach/references/social.md",
+    "sha256": "9d046e55d2284a21fbfc8f522135af947d11e9ca4aa96cc119fe9708fb22883c",
+    "bytes": 9471
+  },
+  {
+    "path": "after/user-agent-reach/references/video.md",
+    "sha256": "0f01f9da6a81ca0939f86df3ad05212829dc28999d89b2895d6d1f640ad9c43e",
+    "bytes": 4219
+  },
+  {
+    "path": "after/user-agent-reach/references/web.md",
+    "sha256": "2495c2e290508b5b98337db679d5b2ff30314aa5b20243c7ff44486a72c3eff2",
+    "bytes": 1103
+  },
+  {
+    "path": "after/user-design-taste-frontend/SKILL.md",
+    "sha256": "87efe6ffe91b61c5708c6a5e05d28bebe6f8828593d0d4933f9e26673f6da8f2",
+    "bytes": 87661
+  },
+  {
+    "path": "after/user-graphify/SKILL.md",
+    "sha256": "e81d85bb99658c661ccec12e51183f0efe1a162785836fd20dc924819dff5541",
+    "bytes": 46779
+  },
+  {
+    "path": "after/user-graphify/SOURCE.md",
+    "sha256": "e955db848795c249b0419372cc2708de1557996cc6acbf7dd5e3e6541280a12e",
+    "bytes": 576
+  },
+  {
+    "path": "after/user-graphify/references/add-watch.md",
+    "sha256": "1e77351815547334c7e030f018dba513b303d397bf73d11fac47df03ace3b3f4",
+    "bytes": 2704
+  },
+  {
+    "path": "after/user-graphify/references/exports.md",
+    "sha256": "c39a2f8062be9a5ac319220d6e66ca586ed0b0798292b1321206834be74c1b33",
+    "bytes": 4774
+  },
+  {
+    "path": "after/user-graphify/references/extraction-spec.md",
+    "sha256": "214c474186ed26f47fafd5be941b29c3524d5e8a362814587f1c5d9883795d7c",
+    "bytes": 9235
+  },
+  {
+    "path": "after/user-graphify/references/github-and-merge.md",
+    "sha256": "e5ebd90c7686f50363ff7a535556bc2f596d4c47ec1e6c8b95e11e36a0dfea2b",
+    "bytes": 2177
+  },
+  {
+    "path": "after/user-graphify/references/hooks.md",
+    "sha256": "7910939007ada7966681da02467302f6f1f7c392f42edecd35994aa639e4dee0",
+    "bytes": 1270
+  },
+  {
+    "path": "after/user-graphify/references/query.md",
+    "sha256": "e99011beeff0cf40dc1775b1e0cd2eab0e5f950deeeb8353ae01cbe57adbff00",
+    "bytes": 13724
+  },
+  {
+    "path": "after/user-graphify/references/transcribe.md",
+    "sha256": "676a1e39aa6d43cdfcc416ec56616e36f7bad74066a82bd33a9485515b9a865c",
+    "bytes": 3173
+  },
+  {
+    "path": "after/user-graphify/references/update.md",
+    "sha256": "c76b855ef9380d766b1a0b271b49bc7b40cf5b5b72558be1a021f99f9a9ea1cc",
+    "bytes": 11279
+  },
+  {
+    "path": "after/user-planning-with-files/SKILL.md",
+    "sha256": "cdb6b4f66ce9034368e9bf3db6a233b0982cd72ab7a6d1cf7639fd171965972c",
+    "bytes": 2051
+  },
+  {
+    "path": "after/user-ponytail/SKILL.md",
+    "sha256": "6b7a6aa196478c9f72ac2ea35f4834e6a3777374094c1b8dd3603038c0ac8b4d",
+    "bytes": 6618
+  },
+  {
+    "path": "after/user-tdd/SKILL.md",
+    "sha256": "1b016312703518c84f2912030d6bfb16383ac787577ccd4109dff43ace9bd8c1",
+    "bytes": 3212
+  },
+  {
+    "path": "after/user-tdd/mocking.md",
+    "sha256": "3ceb807fdf4a47d6a93d4d9a891e5ba6d362a6247bd08adc451feebfc17361ef",
+    "bytes": 1481
+  },
+  {
+    "path": "after/user-tdd/tests.md",
+    "sha256": "859f9e592c188fda4fc7277dd180e4ce9c7a2e13f6efe1f6f29eccc9d28c106a",
+    "bytes": 2214
+  },
+  {
+    "path": "before/codex-dispatching-parallel-agents/SKILL.md",
+    "sha256": "1968923066f3b707eb01d1992cdf4c42284c3855f70253b9cd5000ff45fca13c",
+    "bytes": 6078
+  },
+  {
+    "path": "before/codex-executing-plans/SKILL.md",
+    "sha256": "80e1494d42dfd785265df4d59151e88f35e15781d96954e2cbecb1cb143aa885",
+    "bytes": 2762
+  },
+  {
+    "path": "before/codex-finesse-ui/SKILL.md",
+    "sha256": "b3c95a871163a8fbed75dca16a6530170c6311627c577dd12e05242e412a2b8c",
+    "bytes": 78876
+  },
+  {
+    "path": "before/codex-finesse-ui/examples/EXAMPLES.md",
+    "sha256": "d4ff553f55b42894e0061bef016a9f6a8da54848db1a5274dfde4ffc1d421bb5",
+    "bytes": 21495
+  },
+  {
+    "path": "before/codex-finesse-ui/references/3d-effects.md",
+    "sha256": "ab5c8eeb2fb1afc7fc75c4866b5ebdaf856ae0dfd5a97fa7759db8459cd2c612",
+    "bytes": 13758
+  },
+  {
+    "path": "before/codex-finesse-ui/references/ai-console.md",
+    "sha256": "8914beb7a4c953713d35dac6cc60204ef6dd5a4f5d5504e75579037fdb1cb3af",
+    "bytes": 25716
+  },
+  {
+    "path": "before/codex-finesse-ui/references/anti-cheap.md",
+    "sha256": "d4688f17e823ab13628d3a56df4bda8e08bd21a62df1757ea8bea977da217467",
+    "bytes": 19168
+  },
+  {
+    "path": "before/codex-finesse-ui/references/asset-sourcing.md",
+    "sha256": "9b526b3e83b219be37f915773076a152770701f247bc935d5b3c81485d15fb43",
+    "bytes": 14793
+  },
+  {
+    "path": "before/codex-finesse-ui/references/audit.md",
+    "sha256": "10e8a14601b90ebac14d27f593115353cfad290fad5eff30c7ff0875cb8d058b",
+    "bytes": 8851
+  },
+  {
+    "path": "before/codex-finesse-ui/references/chart-crafting.md",
+    "sha256": "151cc990741c11c3f0256c9730026da70f6b9a77dec48f5b628993c92d405276",
+    "bytes": 17655
+  },
+  {
+    "path": "before/codex-finesse-ui/references/commerce-ui.md",
+    "sha256": "c6a0a5e02c40e95b883fb004008a1a9d28524b79a34a49753d417a5c0c4621f3",
+    "bytes": 9295
+  },
+  {
+    "path": "before/codex-finesse-ui/references/component-scope.md",
+    "sha256": "9721dffd207817721ebf846002828bdecfeff49f8886a4a45fbd460ec8502485",
+    "bytes": 9769
+  },
+  {
+    "path": "before/codex-finesse-ui/references/dataviz.md",
+    "sha256": "c09046ff7c404ca886262c05a951eceb9babc45b83d527f8448319cc5c9ba05f",
+    "bytes": 14490
+  },
+  {
+    "path": "before/codex-finesse-ui/references/design-dna.md",
+    "sha256": "ed52ffd04b72bc1ab3dbdcb7510fb246943d3df403a6495b127977f692e1bffe",
+    "bytes": 14527
+  },
+  {
+    "path": "before/codex-finesse-ui/references/design-model.md",
+    "sha256": "96c2e84d27c1cba221efef787efe1b1579cce8739fdb19d4ad5cbc93736b5a76",
+    "bytes": 4932
+  },
+  {
+    "path": "before/codex-finesse-ui/references/divergence.md",
+    "sha256": "867797ea63430db0a3a192d15421db5b33117b11c73fbaccfaaab1cab30b1181",
+    "bytes": 25305
+  },
+  {
+    "path": "before/codex-finesse-ui/references/document.md",
+    "sha256": "1c1a84b18c8f1f481c82cde450b1974f742a0510b4a4e4dcb8ac069e7631b33e",
+    "bytes": 3181
+  },
+  {
+    "path": "before/codex-finesse-ui/references/h5-mobile.md",
+    "sha256": "12e9fbbc7829ee4424ba4f86efddd5fcd060832c8d111b6458eeabc74dfe7137",
+    "bytes": 38405
+  },
+  {
+    "path": "before/codex-finesse-ui/references/hero-engines.md",
+    "sha256": "27b40984aed27f9dd9796fe3862919d8c7e8303197c55d8d1d8e6cd093d68390",
+    "bytes": 23945
+  },
+  {
+    "path": "before/codex-finesse-ui/references/init.md",
+    "sha256": "f036e5bb20c4c0f53f9524ad595aac5e235875f8b4ac4c27dc47c4de9529f8e2",
+    "bytes": 4270
+  },
+  {
+    "path": "before/codex-finesse-ui/references/inspiration-catalog.md",
+    "sha256": "f0549a198fc1f60dd8a2ede0fe0643d105c13f2c0223a59daf2a2f42c6960a15",
+    "bytes": 11204
+  },
+  {
+    "path": "before/codex-finesse-ui/references/mobile-floor.md",
+    "sha256": "3df080bbcdc8a94c86e54a8faec692231ed502f740a49ae1e90d339ce9b92ffb",
+    "bytes": 8899
+  },
+  {
+    "path": "before/codex-finesse-ui/references/motion.md",
+    "sha256": "04fd6ee3d018e0bfa42bb777d137ec3901f488c29e5a54e34d8e73c9b1da1ede",
+    "bytes": 21361
+  },
+  {
+    "path": "before/codex-finesse-ui/references/page-crafting.md",
+    "sha256": "d3c11728f093f12589412f5d2c20eb6e639556556cf68203c0548c93a2cff42d",
+    "bytes": 34463
+  },
+  {
+    "path": "before/codex-finesse-ui/references/plain-words.md",
+    "sha256": "8bf6660db40128612300d7431e8dae788784f827803717ece6072558a8a776e2",
+    "bytes": 8281
+  },
+  {
+    "path": "before/codex-finesse-ui/references/preflight.md",
+    "sha256": "1139d493b309c55844e498492b01f8eb10d079d5868e372254934d974e3df019",
+    "bytes": 17634
+  },
+  {
+    "path": "before/codex-finesse-ui/references/product-palettes.md",
+    "sha256": "cb13e76707bb21c7ce42fc8a97a90543735c52af54e0b95b9040c28b017e4a38",
+    "bytes": 24003
+  },
+  {
+    "path": "before/codex-finesse-ui/references/product-ui.md",
+    "sha256": "7120c76be6c1a35872d2c2dec21dd06c663c75b0f98c77e575f66b717561473b",
+    "bytes": 28776
+  },
+  {
+    "path": "before/codex-finesse-ui/references/redesign-mode.md",
+    "sha256": "22cdf3234080e90859bf22ba3f4739a52cb9d76c376bf92e372385a0cf4c0671",
+    "bytes": 5536
+  },
+  {
+    "path": "before/codex-finesse-ui/references/style-personas.md",
+    "sha256": "dc02da1d025ad987fed11ae8505f79c9f24dff0dd41792eccf1d008f92cbbdde",
+    "bytes": 5142
+  },
+  {
+    "path": "before/codex-finesse-ui/references/theming.md",
+    "sha256": "23dd20cd296edd0a0f861e179d59a2387d176f798d646c28777444e3719b616c",
+    "bytes": 6196
+  },
+  {
+    "path": "before/codex-finesse-ui/references/workflow-ui.md",
+    "sha256": "c7210c38844f9afe7243ddb8ea8aeda7a1a86cf08cf0cfb35ebcd12af0b38ce8",
+    "bytes": 18698
+  },
+  {
+    "path": "before/codex-onboarding-questionnaire/SKILL.md",
+    "sha256": "90a903dd062eeaa49a0ec677112359a71a357935ac60764ce814c1bf79b71343",
+    "bytes": 22330
+  },
+  {
+    "path": "before/codex-planning-with-files/SKILL.md",
+    "sha256": "7faa168c41f86eb5099e0df7422bdd0258b9da3c50d3506f8efb9c5f9e8bf972",
+    "bytes": 28337
+  },
+  {
+    "path": "before/codex-planning-with-files/examples.md",
+    "sha256": "450355fac69e0fac93453b6c7383c8fb9ba3470662f6c8291080028f73ce00dc",
+    "bytes": 4518
+  },
+  {
+    "path": "before/codex-planning-with-files/reference.md",
+    "sha256": "f8b4edf7037a19cc4119f8cdc11dcda511da2d949328786202e0434d6044b830",
+    "bytes": 8066
+  },
+  {
+    "path": "before/codex-planning-with-files/templates/findings.md",
+    "sha256": "b5e64d73704daefa8492356d2c2c67ffeb78d79d448b316c0a0debc9226ad785",
+    "bytes": 3561
+  },
+  {
+    "path": "before/codex-planning-with-files/templates/progress.md",
+    "sha256": "a2366167ed178bc4a3c1d72ec6c5f6ea9e38aed67c6f3dd2c1a8cbdb4cde76b6",
+    "bytes": 4001
+  },
+  {
+    "path": "before/codex-planning-with-files/templates/task_plan.md",
+    "sha256": "03ab63b35434c8cf2375000762bb1f360db2e9b3a825810d0aee311bad5f49aa",
+    "bytes": 4613
+  },
+  {
+    "path": "before/codex-requesting-code-review/SKILL.md",
+    "sha256": "d71cc01ba56d2325cf8af5f7c11837819b63ecd57de0bfdb812f7f3ff7751df8",
+    "bytes": 2956
+  },
+  {
+    "path": "before/codex-requesting-code-review/code-reviewer.md",
+    "sha256": "5eca5fcfd48a50e0a526ce5ffd64bf625d6b81bb46d11795274dae451fe6ffd4",
+    "bytes": 5669
+  },
+  {
+    "path": "before/codex-systematic-debugging/CREATION-LOG.md",
+    "sha256": "c24733a5b1821bd6bed1fc950261f0b9f4e90097e0bbb96459d8179713730789",
+    "bytes": 4257
+  },
+  {
+    "path": "before/codex-systematic-debugging/SKILL.md",
+    "sha256": "922477488276a351cddee61857133a710123aea4b558a11cc3e37a0ee92b93a3",
+    "bytes": 10291
+  },
+  {
+    "path": "before/codex-systematic-debugging/condition-based-waiting.md",
+    "sha256": "e89fec8400d6cd50f43407cec9fab50976ba4d55d0ec2eb51c0bd68036b54c26",
+    "bytes": 3516
+  },
+  {
+    "path": "before/codex-systematic-debugging/defense-in-depth.md",
+    "sha256": "1e175fb86fc357e58c6aebf5441e481e1b7868b4380c0456b63a17eefbd18ba7",
+    "bytes": 3650
+  },
+  {
+    "path": "before/codex-systematic-debugging/root-cause-tracing.md",
+    "sha256": "6b0622269e098ca1399e123e553fd385f0b6412d88ef0e9c4f5a8ea9cf1cec7b",
+    "bytes": 5316
+  },
+  {
+    "path": "before/codex-systematic-debugging/test-academic.md",
+    "sha256": "fe2ba480d78ac0d686dc025f41c2a32a43d642bf533f91b0c6053a04d35d6486",
+    "bytes": 653
+  },
+  {
+    "path": "before/codex-systematic-debugging/test-pressure-1.md",
+    "sha256": "0b6a915db0054577819834c79be9eb614e97bddba10d73768e1fbe91cfed048a",
+    "bytes": 1900
+  },
+  {
+    "path": "before/codex-systematic-debugging/test-pressure-2.md",
+    "sha256": "b2030aeffba07050e8ad573ddf87486457c4a016a786bb326235bebd856f2016",
+    "bytes": 2283
+  },
+  {
+    "path": "before/codex-systematic-debugging/test-pressure-3.md",
+    "sha256": "96b50a52e2c7989c9cf20fb752c47c1e9a3a70dc362f8f7989f8f5b64dac7708",
+    "bytes": 2692
+  },
+  {
+    "path": "before/codex-using-git-worktrees/SKILL.md",
+    "sha256": "b9675feba26bc284a9d4ee704fac897dce551c2132e7dd3deff196716acce826",
+    "bytes": 7756
+  },
+  {
+    "path": "before/project-design-taste-frontend/SKILL.md",
+    "sha256": "aa194351b246b8b4799099d4ed7b033d29eab6e6e3d58d8d2172978be7b3ec89",
+    "bytes": 87253
+  },
+  {
+    "path": "before/project-tdd/SKILL.md",
+    "sha256": "af059705061156fd4845ddbb736fe92b564118ac5f03551e09ef9e8f6d970638",
+    "bytes": 4395
+  },
+  {
+    "path": "before/project-tdd/deep-modules.md",
+    "sha256": "f2123700bf953db1740625686c75bdd145efd486357c47c6818c869fee657a32",
+    "bytes": 1239
+  },
+  {
+    "path": "before/project-tdd/interface-design.md",
+    "sha256": "764c5ff0e3fa6b4ab7095eb65ccc7201e090baf19fa16051dfdb72c06d27417d",
+    "bytes": 653
+  },
+  {
+    "path": "before/project-tdd/mocking.md",
+    "sha256": "3ceb807fdf4a47d6a93d4d9a891e5ba6d362a6247bd08adc451feebfc17361ef",
+    "bytes": 1481
+  },
+  {
+    "path": "before/project-tdd/refactoring.md",
+    "sha256": "54fced22dd1911b7094c3fe7979b7c1a40d40be307482c4adf7dc0588f27d6cc",
+    "bytes": 387
+  },
+  {
+    "path": "before/project-tdd/tests.md",
+    "sha256": "e12182f5c4c6a844b7c6ab4b8d2623b642aaaae5460fe58ed087efd4f3d5fb8a",
+    "bytes": 1640
+  },
+  {
+    "path": "before/user-agent-reach/SKILL.md",
+    "sha256": "e6b1cfd553132933feed966acbd9e2f8f65d17f9fcbeeaf452dc5d7ef7d77c39",
+    "bytes": 6096
+  },
+  {
+    "path": "before/user-agent-reach/references/career.md",
+    "sha256": "e70badf6c860a55cc049c15cc5cef31ca0fa2a2ae9ae1f72ade24b91844c1a2f",
+    "bytes": 712
+  },
+  {
+    "path": "before/user-agent-reach/references/dev.md",
+    "sha256": "f6f91107557eacf1d28a023d597eb5a61353a8a6ede286c3c0a4888d274df9fe",
+    "bytes": 1383
+  },
+  {
+    "path": "before/user-agent-reach/references/search.md",
+    "sha256": "8eabfb645505148ea32e22e372c6d5a48615fba2e2f00eb8590e07464833851b",
+    "bytes": 821
+  },
+  {
+    "path": "before/user-agent-reach/references/social.md",
+    "sha256": "9d046e55d2284a21fbfc8f522135af947d11e9ca4aa96cc119fe9708fb22883c",
+    "bytes": 9471
+  },
+  {
+    "path": "before/user-agent-reach/references/video.md",
+    "sha256": "0f01f9da6a81ca0939f86df3ad05212829dc28999d89b2895d6d1f640ad9c43e",
+    "bytes": 4219
+  },
+  {
+    "path": "before/user-agent-reach/references/web.md",
+    "sha256": "2495c2e290508b5b98337db679d5b2ff30314aa5b20243c7ff44486a72c3eff2",
+    "bytes": 1103
+  },
+  {
+    "path": "before/user-design-taste-frontend/SKILL.md",
+    "sha256": "aa194351b246b8b4799099d4ed7b033d29eab6e6e3d58d8d2172978be7b3ec89",
+    "bytes": 87253
+  },
+  {
+    "path": "before/user-graphify/SKILL.md",
+    "sha256": "48d3b1bb73b52bbcb6a033384638674e54708a6ec6b8b537d49867e760e4c5bf",
+    "bytes": 47268
+  },
+  {
+    "path": "before/user-graphify/SOURCE.md",
+    "sha256": "e955db848795c249b0419372cc2708de1557996cc6acbf7dd5e3e6541280a12e",
+    "bytes": 576
+  },
+  {
+    "path": "before/user-graphify/references/add-watch.md",
+    "sha256": "1e77351815547334c7e030f018dba513b303d397bf73d11fac47df03ace3b3f4",
+    "bytes": 2704
+  },
+  {
+    "path": "before/user-graphify/references/exports.md",
+    "sha256": "c39a2f8062be9a5ac319220d6e66ca586ed0b0798292b1321206834be74c1b33",
+    "bytes": 4774
+  },
+  {
+    "path": "before/user-graphify/references/extraction-spec.md",
+    "sha256": "214c474186ed26f47fafd5be941b29c3524d5e8a362814587f1c5d9883795d7c",
+    "bytes": 9235
+  },
+  {
+    "path": "before/user-graphify/references/github-and-merge.md",
+    "sha256": "e5ebd90c7686f50363ff7a535556bc2f596d4c47ec1e6c8b95e11e36a0dfea2b",
+    "bytes": 2177
+  },
+  {
+    "path": "before/user-graphify/references/hooks.md",
+    "sha256": "7910939007ada7966681da02467302f6f1f7c392f42edecd35994aa639e4dee0",
+    "bytes": 1270
+  },
+  {
+    "path": "before/user-graphify/references/query.md",
+    "sha256": "e99011beeff0cf40dc1775b1e0cd2eab0e5f950deeeb8353ae01cbe57adbff00",
+    "bytes": 13724
+  },
+  {
+    "path": "before/user-graphify/references/transcribe.md",
+    "sha256": "676a1e39aa6d43cdfcc416ec56616e36f7bad74066a82bd33a9485515b9a865c",
+    "bytes": 3173
+  },
+  {
+    "path": "before/user-graphify/references/update.md",
+    "sha256": "c76b855ef9380d766b1a0b271b49bc7b40cf5b5b72558be1a021f99f9a9ea1cc",
+    "bytes": 11279
+  },
+  {
+    "path": "before/user-planning-with-files/SKILL.md",
+    "sha256": "01e08487a56605668947ab2e5ead083b9595f271b99f07cd8b903c1da3b94665",
+    "bytes": 1533
+  },
+  {
+    "path": "before/user-ponytail/SKILL.md",
+    "sha256": "d46219c7fb0faae82d0b2bf93a71c0355d72f0c2c0cce589faa87ea5c9d5061b",
+    "bytes": 6599
+  },
+  {
+    "path": "before/user-tdd/SKILL.md",
+    "sha256": "5363bb2775679fe9311fbb67947f95359169c6e7f1fac77c0f25e190bca6cf2f",
+    "bytes": 3213
+  },
+  {
+    "path": "before/user-tdd/mocking.md",
+    "sha256": "3ceb807fdf4a47d6a93d4d9a891e5ba6d362a6247bd08adc451feebfc17361ef",
+    "bytes": 1481
+  },
+  {
+    "path": "before/user-tdd/tests.md",
+    "sha256": "859f9e592c188fda4fc7277dd180e4ce9c7a2e13f6efe1f6f29eccc9d28c106a",
+    "bytes": 2214
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "label": "video-A",
+    "threadId": "01a1c3c9-0d48-71d1-affa-f15080d1623c",
+    "turnId": "01a1c3c9-0d77-7a71-9a49-46c0b9602046",
+    "startedAtUTC": "2026-11-10T04:48:15+00:00",
+    "completedAtUTC": "2026-11-10T04:49:03+00:00",
+    "turn_duration_ms": 47672,
+    "model_recorded": "gpt-6.1-terra",
+    "effort_recorded": "max",
+    "mode_recorded": "default",
+    "command_operations": 3,
+    "file_changes": 0,
+    "token_event_count": 4,
+    "known_token_call_ids": 0,
+    "total_session_usage": {
+      "input_tokens": 158525,
+      "cached_input_tokens": 119040,
+      "output_tokens": 2256,
+      "reasoning_output_tokens": 1423,
+      "total_tokens": 160781
+    },
+    "noncached_input_tokens": 39485,
+    "fee": "UNKNOWN"
+  },
+  {
+    "label": "video-B",
+    "threadId": "01a1c3c9-2cfa-7fa1-87c8-23ea2fb8a86c",
+    "turnId": "01a1c3c9-2d13-74c1-9e83-077c189470eb",
+    "startedAtUTC": "2026-11-10T04:48:23+00:00",
+    "completedAtUTC": "2026-11-10T04:49:38+00:00",
+    "turn_duration_ms": 74312,
+    "model_recorded": "gpt-6.1-terra",
+    "effort_recorded": "max",
+    "mode_recorded": "default",
+    "command_operations": 4,
+    "file_changes": 0,
+    "token_event_count": 4,
+    "known_token_call_ids": 0,
+    "total_session_usage": {
+      "input_tokens": 173568,
+      "cached_input_tokens": 143104,
+      "output_tokens": 3724,
+      "reasoning_output_tokens": 2227,
+      "total_tokens": 177292
+    },
+    "noncached_input_tokens": 30464,
+    "fee": "UNKNOWN"
+  },
+  {
+    "label": "diagnose-A",
+    "threadId": "01a1c3ca-9653-73c1-9f82-a9488feb2cb8",
+    "turnId": "01a1c3ca-96d3-7901-ba35-0cab43ae2d06",
+    "startedAtUTC": "2026-11-10T04:49:56+00:00",
+    "completedAtUTC": "2026-11-10T04:51:25+00:00",
+    "turn_duration_ms": 89248,
+    "model_recorded": "gpt-6.1-terra",
+    "effort_recorded": "max",
+    "mode_recorded": "default",
+    "command_operations": 16,
+    "file_changes": 1,
+    "token_event_count": 8,
+    "known_token_call_ids": 0,
+    "total_session_usage": {
+      "input_tokens": 348843,
+      "cached_input_tokens": 341248,
+      "output_tokens": 4005,
+      "reasoning_output_tokens": 1232,
+      "total_tokens": 352848
+    },
+    "noncached_input_tokens": 7595,
+    "fee": "UNKNOWN"
+  },
+  {
+    "label": "diagnose-B",
+    "threadId": "01a1c3ca-b9d4-75e2-a091-c26599b99963",
+    "turnId": "01a1c3ca-b9ed-7460-9af2-b5f94f67b1c8",
+    "startedAtUTC": "2026-11-10T04:50:05+00:00",
+    "completedAtUTC": "2026-11-10T04:52:18+00:00",
+    "turn_duration_ms": 133242,
+    "model_recorded": "gpt-6.1-terra",
+    "effort_recorded": "max",
+    "mode_recorded": "default",
+    "command_operations": 16,
+    "file_changes": 1,
+    "token_event_count": 9,
+    "known_token_call_ids": 0,
+    "total_session_usage": {
+      "input_tokens": 413026,
+      "cached_input_tokens": 404480,
+      "output_tokens": 6501,
+      "reasoning_output_tokens": 3433,
+      "total_tokens": 419527
+    },
+    "noncached_input_tokens": 8546,
+    "fee": "UNKNOWN"
+  }
+]

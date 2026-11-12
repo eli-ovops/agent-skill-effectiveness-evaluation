@@ -1,0 +1,44 @@
+[
+  {
+    "label": "tdd-A",
+    "thread_id": "01a1c3e8-b951-7613-920f-83ad092bd358",
+    "turn_id": "01a1c3e8-ba35-7660-a805-ae8e5405f2a5",
+    "duration_ms": 105746,
+    "command_operations": 16,
+    "file_changes": 0,
+    "model_recorded": "gpt-6.1-terra",
+    "effort_recorded": "max",
+    "usage_final_cumulative": {
+      "input_tokens": 576461,
+      "cached_input_tokens": 543872,
+      "output_tokens": 4549,
+      "reasoning_output_tokens": 1760,
+      "total_tokens": 581010
+    },
+    "noncached_input_tokens": 32589,
+    "token_call_ids_known": 0,
+    "approval_marker_present": false,
+    "external_fee": "UNKNOWN"
+  },
+  {
+    "label": "tdd-B",
+    "thread_id": "01a1c3e8-dc94-7b92-a305-371e5a834db8",
+    "turn_id": "01a1c3e8-de3e-79c3-8218-9235e1977119",
+    "duration_ms": 119112,
+    "command_operations": 14,
+    "file_changes": 4,
+    "model_recorded": "gpt-6.1-terra",
+    "effort_recorded": "max",
+    "usage_final_cumulative": {
+      "input_tokens": 716240,
+      "cached_input_tokens": 683776,
+      "output_tokens": 5169,
+      "reasoning_output_tokens": 2231,
+      "total_tokens": 721409
+    },
+    "noncached_input_tokens": 32464,
+    "token_call_ids_known": 0,
+    "approval_marker_present": false,
+    "external_fee": "UNKNOWN"
+  }
+]

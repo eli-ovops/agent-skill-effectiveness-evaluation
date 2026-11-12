@@ -1,0 +1,28 @@
+{
+  "source": "current-session developer skills_instructions",
+  "source_session_line": 5,
+  "observed_catalog": "session-initial injected listing; enabled elsewhere UNKNOWN",
+  "aliases": {
+    "r0": "/Users/USER/.codex/skills",
+    "r1": "/Users/USER/.agents/skills",
+    "r2": "/Users/USER/.codex/skills/.system",
+    "r3": "/Users/USER/.codex/plugins/cache/openai-bundled",
+    "r4": "/Users/USER/.codex/plugins/cache/openai-curated-remote/app-69312da8e4dc81919370cb86fd172b6c/10.0.0/skills",
+    "r5": "/Users/USER/.codex/plugins/cache/openai-curated-remote/figma/17.0.0/skills",
+    "r6": "/Users/USER/.codex/plugins/cache/openai-curated-remote/google-drive/0.1.23/skills",
+    "r7": "/Users/USER/.codex/plugins/cache/openai-curated-remote/hyperframes/0.1.2/skills",
+    "r8": "/Users/USER/.codex/plugins/cache/openai-curated-remote/pages/0.1.26/skills",
+    "r9": "/Users/USER/.codex/plugins/cache/openai-curated-remote",
+    "r10": "/Users/USER/.codex/plugins/cache/openai-curated-remote/product-design/0.1.56/skills",
+    "r11": "/Users/USER/.codex/plugins/cache/openai-curated-remote/sites/1.1.4/skills",
+    "r12": "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.0.9/skills",
+    "r13": "/Users/USER/.codex/plugins/cache/openai-curated-remote/work-pets/0.1.6/skills",
+    "r14": "/Users/USER/.codex/plugins/cache/openai-primary-runtime",
+    "r15": "/Users/USER/.codex/plugins/cache/openai-primary-runtime/spreadsheets/26.1104.22356/skills",
+    "r16": "/Users/USER/Documents/skills/.agents/skills"
+  },
+  "entry_count": 475,
+  "injected_block_chars": 40048,
+  "injected_block_utf8_bytes": 40492,
+  "metric_boundary": "static size only; not token usage"
+}

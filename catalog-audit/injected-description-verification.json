@@ -1,0 +1,22 @@
+{
+  "source": "current session developer input, line 5, skills_instructions",
+  "total": 475,
+  "exact_raw_matches": 475,
+  "description_length_distribution": {
+    "13": 2,
+    "14": 175,
+    "15": 33,
+    "16": 238,
+    "17": 27
+  },
+  "median_chars": 16,
+  "examples": [
+    "- imagegen: Generate or ed (file: r2/imagegen/SKILL.md)",
+    "- skill-creator: Create or update (file: r2/skill-creator/SKILL.md)",
+    "- graphify: Use for any qu (file: r1/graphify/SKILL.md)",
+    "- ponytail: Forces the laz (file: r1/ponytail/SKILL.md)",
+    "- skill-creator: Create or update (file: r1/chatcut-skill-creator/SKILL.md)",
+    "- skill-creator: Create or update (file: r0/chatcut-skill-creator/SKILL.md)",
+    "- using-superpowers: Use when selecti (file: r0/using-superpowers/SKILL.md)"
+  ]
+}

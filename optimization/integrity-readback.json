@@ -1,0 +1,164 @@
+{
+  "changed_sources": 26,
+  "all_final_sources_match": true,
+  "initial_experiment_162_resources_unchanged": true,
+  "latest_graphify_snapshot_matches": true,
+  "sources": [
+    {
+      "source": "/Users/USER/.agents/skills/graphify/SKILL.md",
+      "sha256_final": "05aa554d249baab03d79d3759a55cdd2d183367a1664c538fee532e987d5e303",
+      "matches_change_record": true,
+      "mode_preserved": true
+    },
+    {
+      "source": "/Users/USER/.agents/skills/tdd/SKILL.md",
+      "sha256_final": "1b016312703518c84f2912030d6bfb16383ac787577ccd4109dff43ace9bd8c1",
+      "matches_change_record": true,
+      "mode_preserved": true
+    },
+    {
+      "source": "/Users/USER/Documents/skills/.agents/skills/tdd/SKILL.md",
+      "sha256_final": "4a63dcb3b8b834f2aa3747c41eafaacff703711a50b5c30a12308afbac98d55f",
+      "matches_change_record": true,
+      "mode_preserved": true
+    },
+    {
+      "source": "/Users/USER/.codex/skills/finesse-ui/SKILL.md",
+      "sha256_final": "8875e08c3a96e2f975b07037c382ab7e2b87bd829fb388942fd56f30ae5e010c",
+      "matches_change_record": true,
+      "mode_preserved": true
+    },
+    {
+      "source": "/Users/USER/.codex/skills/finesse-ui/references/asset-sourcing.md",
+      "sha256_final": "0934acc9b6dc59ab518fa73bcc6345480b249e1f4c8b32cd93b1da271c1c1b12",
+      "matches_change_record": true,
+      "mode_preserved": true
+    },
+    {
+      "source": "/Users/USER/.codex/skills/finesse-ui/references/divergence.md",
+      "sha256_final": "2c161dc9de9466b62289e259c654617f23f899c6b70f4d22de862bf9c96cd8f4",
+      "matches_change_record": true,
+      "mode_preserved": true
+    },
+    {
+      "source": "/Users/USER/.codex/skills/finesse-ui/references/preflight.md",
+      "sha256_final": "f149aeb745192525bf89d796e7b198424f328203e1e9e4d5a21e2591265c6f81",
+      "matches_change_record": true,
+      "mode_preserved": true
+    },
+    {
+      "source": "/Users/USER/.codex/skills/finesse-ui/references/component-scope.md",
+      "sha256_final": "4f68b16acc0972e86f33869634cde74018677b4e6d8f36f5ea54080d9eaddd94",
+      "matches_change_record": true,
+      "mode_preserved": true
+    },
+    {
+      "source": "/Users/USER/.codex/skills/requesting-code-review/SKILL.md",
+      "sha256_final": "8b4a070eaf7633bb2167bf28a342c418cb9ca04a9f53cb2b8e92a1feab741dc2",
+      "matches_change_record": true,
+      "mode_preserved": true
+    },
+    {
+      "source": "/Users/USER/.codex/skills/dispatching-parallel-agents/SKILL.md",
+      "sha256_final": "081b78185d532efded195d6fb5a954c4a221f8b2107df67ad4effffe14774ea8",
+      "matches_change_record": true,
+      "mode_preserved": true
+    },
+    {
+      "source": "/Users/USER/.codex/skills/onboarding-questionnaire/SKILL.md",
+      "sha256_final": "a5dce35a24993f586c84718d3a3ddf5d1b36961b86ad3504ebb39ce8ce266f88",
+      "matches_change_record": true,
+      "mode_preserved": true
+    },
+    {
+      "source": "/Users/USER/.agents/skills/ponytail/SKILL.md",
+      "sha256_final": "6b7a6aa196478c9f72ac2ea35f4834e6a3777374094c1b8dd3603038c0ac8b4d",
+      "matches_change_record": true,
+      "mode_preserved": true
+    },
+    {
+      "source": "/Users/USER/.codex/skills/planning-with-files/SKILL.md",
+      "sha256_final": "5a03387f0d0b26e2d94e542948331e6f70b32ac35393fe3b440659ace8ac3d06",
+      "matches_change_record": true,
+      "mode_preserved": true
+    },
+    {
+      "source": "/Users/USER/.agents/skills/planning-with-files/SKILL.md",
+      "sha256_final": "cdb6b4f66ce9034368e9bf3db6a233b0982cd72ab7a6d1cf7639fd171965972c",
+      "matches_change_record": true,
+      "mode_preserved": true
+    },
+    {
+      "source": "/Users/USER/.agents/skills/agent-reach/SKILL.md",
+      "sha256_final": "90b3fd04ac37249d3fe5bc9004450904d8d71cb9cb3b1ca7d36373db57c70c9a",
+      "matches_change_record": true,
+      "mode_preserved": true
+    },
+    {
+      "source": "/Users/USER/.agents/skills/design-taste-frontend/SKILL.md",
+      "sha256_final": "87efe6ffe91b61c5708c6a5e05d28bebe6f8828593d0d4933f9e26673f6da8f2",
+      "matches_change_record": true,
+      "mode_preserved": true
+    },
+    {
+      "source": "/Users/USER/Documents/skills/.agents/skills/design-taste-frontend/SKILL.md",
+      "sha256_final": "87efe6ffe91b61c5708c6a5e05d28bebe6f8828593d0d4933f9e26673f6da8f2",
+      "matches_change_record": true,
+      "mode_preserved": true
+    },
+    {
+      "source": "/Users/USER/.codex/skills/systematic-debugging/SKILL.md",
+      "sha256_final": "fb24d5f9912dddc415f84394da604f203c213ec5b44fefbf011d565895f28237",
+      "matches_change_record": true,
+      "mode_preserved": true
+    },
+    {
+      "source": "/Users/USER/.codex/skills/executing-plans/SKILL.md",
+      "sha256_final": "1ef77d26696487425d91dc1f8ef72f494e66dcc601b309595a029d9ae7320658",
+      "matches_change_record": true,
+      "mode_preserved": true
+    },
+    {
+      "source": "/Users/USER/.codex/skills/using-git-worktrees/SKILL.md",
+      "sha256_final": "4f2342457f0267f9973ab3458740700ce84bdaabf3fdb3fd315f79f9347e56f4",
+      "matches_change_record": true,
+      "mode_preserved": true
+    },
+    {
+      "source": "/Users/USER/.agents/skills/graphify/references/github-and-merge.md",
+      "sha256_final": "9ea60f2b5f9aea03366fcfa6b7656dc290cd0b740302db155381cdde679254a1",
+      "matches_change_record": true,
+      "mode_preserved": true
+    },
+    {
+      "source": "/Users/USER/.agents/skills/graphify/references/exports.md",
+      "sha256_final": "48dfed6b8909ea7fe21222aa899468f67fed92273e0bf2fdd387dd36ed517609",
+      "matches_change_record": true,
+      "mode_preserved": true
+    },
+    {
+      "source": "/Users/USER/.agents/skills/graphify/references/transcribe.md",
+      "sha256_final": "279b6b58f67c9929795a4540eb8346d7080705c0fa3c47b5911d3051473e117d",
+      "matches_change_record": true,
+      "mode_preserved": true
+    },
+    {
+      "source": "/Users/USER/.agents/skills/graphify/references/add-watch.md",
+      "sha256_final": "746f01a5bcf29b1a73d15148d7f16bfb43f597c71b42ce5117381b6049cdef8c",
+      "matches_change_record": true,
+      "mode_preserved": true
+    },
+    {
+      "source": "/Users/USER/.agents/skills/graphify/references/hooks.md",
+      "sha256_final": "1b0a5a9674f9ff8cf21cc17ee59c163bfcd429858056c28610b5388accfeb1b0",
+      "matches_change_record": true,
+      "mode_preserved": true
+    },
+    {
+      "source": "/Users/USER/.agents/skills/graphify/references/query.md",
+      "sha256_final": "f283590c1dd83f16b53d91ac1a528ffbb36b31abfaec8115ab55a6fca40f6e24",
+      "matches_change_record": true,
+      "mode_preserved": true
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "case": "case-07",
+    "task_unchanged": true,
+    "target_resources_unchanged": true,
+    "common_resources_unchanged": true,
+    "source_thread_id": "01a1c42b-7a06-7461-ba16-8cf4c82364a4",
+    "turn_id": "01a1c42b-7b95-7203-ba88-7903332dba61",
+    "duration_ms": 109707,
+    "commands": 11,
+    "file_change_events": 2,
+    "truncated_outputs": 0
+  },
+  {
+    "case": "case-08",
+    "task_unchanged": true,
+    "target_resources_unchanged": true,
+    "common_resources_unchanged": true,
+    "source_thread_id": "01a1c42b-a781-7101-8bf0-45361544c736",
+    "turn_id": "01a1c42b-a7a9-7f72-b7ef-20c076f61df9",
+    "duration_ms": 102103,
+    "commands": 12,
+    "file_change_events": 2,
+    "truncated_outputs": 0
+  },
+  {
+    "case": "case-09",
+    "task_unchanged": true,
+    "target_resources_unchanged": true,
+    "common_resources_unchanged": true,
+    "source_thread_id": "01a1c42d-69fc-7e23-963f-44f16f9acf64",
+    "turn_id": "01a1c42d-6a2b-7ac3-956a-1cb26cc86c9d",
+    "duration_ms": 89972,
+    "commands": 9,
+    "file_change_events": 3,
+    "truncated_outputs": 0
+  },
+  {
+    "case": "case-10",
+    "task_unchanged": true,
+    "target_resources_unchanged": true,
+    "common_resources_unchanged": true,
+    "source_thread_id": "01a1c42d-8c8d-7fb2-91c0-743886a15b02",
+    "turn_id": "01a1c42d-8cad-7bb2-9ce8-4e6743114355",
+    "duration_ms": 90530,
+    "commands": 14,
+    "file_change_events": 3,
+    "truncated_outputs": 0
+  }
+]

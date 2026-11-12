@@ -1,0 +1,52 @@
+[
+  {
+    "source": "/Users/USER/.agents/skills/graphify/references/exports.md",
+    "real_path": "/Users/USER/.agents/skills/graphify/references/exports.md",
+    "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.agents/skills/graphify/references/exports.md",
+    "sha256_before": "c39a2f8062be9a5ac319220d6e66ca586ed0b0798292b1321206834be74c1b33",
+    "bytes_before": 4774,
+    "mode": "0o644",
+    "mtime_ns": 1793322532424106687,
+    "backed_up_at": "2026-11-10T14:29:37.386986+08:00"
+  },
+  {
+    "source": "/Users/USER/.agents/skills/graphify/references/transcribe.md",
+    "real_path": "/Users/USER/.agents/skills/graphify/references/transcribe.md",
+    "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.agents/skills/graphify/references/transcribe.md",
+    "sha256_before": "676a1e39aa6d43cdfcc416ec56616e36f7bad74066a82bd33a9485515b9a865c",
+    "bytes_before": 3173,
+    "mode": "0o644",
+    "mtime_ns": 1793322532428436408,
+    "backed_up_at": "2026-11-10T14:29:37.386986+08:00"
+  },
+  {
+    "source": "/Users/USER/.agents/skills/graphify/references/add-watch.md",
+    "real_path": "/Users/USER/.agents/skills/graphify/references/add-watch.md",
+    "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.agents/skills/graphify/references/add-watch.md",
+    "sha256_before": "1e77351815547334c7e030f018dba513b303d397bf73d11fac47df03ace3b3f4",
+    "bytes_before": 2704,
+    "mode": "0o644",
+    "mtime_ns": 1793322532423845561,
+    "backed_up_at": "2026-11-10T14:29:37.386986+08:00"
+  },
+  {
+    "source": "/Users/USER/.agents/skills/graphify/references/hooks.md",
+    "real_path": "/Users/USER/.agents/skills/graphify/references/hooks.md",
+    "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.agents/skills/graphify/references/hooks.md",
+    "sha256_before": "7910939007ada7966681da02467302f6f1f7c392f42edecd35994aa639e4dee0",
+    "bytes_before": 1270,
+    "mode": "0o644",
+    "mtime_ns": 1793322532427632531,
+    "backed_up_at": "2026-11-10T14:29:37.386986+08:00"
+  },
+  {
+    "source": "/Users/USER/.agents/skills/graphify/references/query.md",
+    "real_path": "/Users/USER/.agents/skills/graphify/references/query.md",
+    "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.agents/skills/graphify/references/query.md",
+    "sha256_before": "e99011beeff0cf40dc1775b1e0cd2eab0e5f950deeeb8353ae01cbe57adbff00",
+    "bytes_before": 13724,
+    "mode": "0o644",
+    "mtime_ns": 1793322532428288491,
+    "backed_up_at": "2026-11-10T14:29:37.386986+08:00"
+  }
+]

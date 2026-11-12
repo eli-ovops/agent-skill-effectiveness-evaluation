@@ -1,0 +1,22 @@
+{
+  "snapshot": "snapshot-02",
+  "session_injected_paths": 475,
+  "session_catalog_distinct_names": 422,
+  "descriptions_length_distribution": {
+    "13": 2,
+    "14": 175,
+    "15": 33,
+    "16": 238,
+    "17": 27
+  },
+  "injected_description_median_chars": 16,
+  "declared_description_median_chars_heuristic": 274,
+  "all_475_injected_descriptions_shorter_than_extracted_frontmatter": true,
+  "injected_groups_same_name_same_hash": 24,
+  "injected_groups_same_name_different_hash": 27,
+  "policy_text": {
+    "MISSING": 405,
+    "UNSPECIFIED": 54,
+    "true": 16
+  }
+}

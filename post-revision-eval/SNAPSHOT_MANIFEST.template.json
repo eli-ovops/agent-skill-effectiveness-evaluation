@@ -1,0 +1,15 @@
+{
+  "status": "WAITING_FOR_FROZEN_SNAPSHOTS",
+  "backup_receipt_path": null,
+  "backup_precedes_edit_evidence": null,
+  "target_skill_name": null,
+  "before": {"frozen_path": null, "sha256": null, "mtime_utc": null, "dependencies": []},
+  "after": {"frozen_path": null, "sha256": null, "mtime_utc": null, "dependencies": []},
+  "common_ponytail": {"frozen_path": null, "sha256": null, "applies_when_target_is_not_ponytail": true},
+  "common_safety_constraints": "unchanged; no live credentials, accounts, network, services, payment or external writes",
+  "session_catalog_injection": "UNKNOWN; inspect actual agent context and record limitations",
+  "model_and_effort": "inherit and verify; UNKNOWN if not observable",
+  "enforceable_tool_isolation_for_authorization_fixture": "UNKNOWN",
+  "human_authorization": "GRANTED_FOR_THIS_EVALUATION_AFTER_SNAPSHOTS",
+  "run_ready": false
+}

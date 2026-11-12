@@ -1,0 +1,149 @@
+{
+  "verified_at_utc": "2026-11-10T05:24:09.920389+00:00",
+  "coverage": [
+    {
+      "root": "/Users/USER/.codex/skills",
+      "rg_count": 303,
+      "missing_from_snapshot": [],
+      "return_code": 0
+    },
+    {
+      "root": "/Users/USER/.agents/skills",
+      "rg_count": 103,
+      "missing_from_snapshot": [],
+      "return_code": 0
+    },
+    {
+      "root": "/Users/USER/Documents/skills/.agents/skills",
+      "rg_count": 8,
+      "missing_from_snapshot": [],
+      "return_code": 0
+    },
+    {
+      "root": "/Users/USER/.codex/plugins/cache/openai-bundled",
+      "rg_count": 2,
+      "missing_from_snapshot": [],
+      "return_code": 0
+    },
+    {
+      "root": "/Users/USER/.codex/plugins/cache/openai-curated-remote",
+      "rg_count": 92,
+      "missing_from_snapshot": [
+        "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/amazon-ads/SKILL.md",
+        "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/budget-pacing/SKILL.md",
+        "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/campaign-launch/SKILL.md",
+        "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/campaign-management/SKILL.md",
+        "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/get-started/SKILL.md",
+        "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/google-ads/SKILL.md",
+        "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/google-analytics-4/SKILL.md",
+        "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/google-merchant-center/SKILL.md",
+        "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/google-search-console/SKILL.md",
+        "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/instagram/SKILL.md",
+        "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/linkedin-ads/SKILL.md",
+        "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/marketing-performance-review/SKILL.md",
+        "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/meta-ads/SKILL.md",
+        "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/microsoft-ads/SKILL.md",
+        "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/scheduled-exports/SKILL.md",
+        "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/tiktok-ads/SKILL.md",
+        "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/wasted-spend-audit/SKILL.md",
+        "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/windsor/SKILL.md"
+      ],
+      "return_code": 0
+    },
+    {
+      "root": "/Users/USER/.codex/plugins/cache/openai-primary-runtime",
+      "rg_count": 6,
+      "missing_from_snapshot": [],
+      "return_code": 0
+    }
+  ],
+  "selected_hashes": [
+    {
+      "path": "/Users/USER/.agents/skills/ponytail/SKILL.md",
+      "snapshot_sha256": "d46219c7fb0faae82d0b2bf93a71c0355d72f0c2c0cce589faa87ea5c9d5061b",
+      "review_sha256": "d46219c7fb0faae82d0b2bf93a71c0355d72f0c2c0cce589faa87ea5c9d5061b"
+    },
+    {
+      "path": "/Users/USER/.codex/skills/brainstorming/SKILL.md",
+      "snapshot_sha256": "24f589d1ff7edfd5dee2cf37add47aab667e5ea95d5d79403d4c323b5a6bab72",
+      "review_sha256": "24f589d1ff7edfd5dee2cf37add47aab667e5ea95d5d79403d4c323b5a6bab72"
+    },
+    {
+      "path": "/Users/USER/.codex/skills/using-superpowers/SKILL.md",
+      "snapshot_sha256": "4513c82e7711c81d37e9d8e87f36fd3b3c6c07dd5f63145b8fda19e9e34ab661",
+      "review_sha256": "4513c82e7711c81d37e9d8e87f36fd3b3c6c07dd5f63145b8fda19e9e34ab661"
+    },
+    {
+      "path": "/Users/USER/.agents/skills/graphify/SKILL.md",
+      "snapshot_sha256": "48d3b1bb73b52bbcb6a033384638674e54708a6ec6b8b537d49867e760e4c5bf",
+      "review_sha256": "48d3b1bb73b52bbcb6a033384638674e54708a6ec6b8b537d49867e760e4c5bf"
+    },
+    {
+      "path": "/Users/USER/.agents/skills/tdd/SKILL.md",
+      "snapshot_sha256": "5363bb2775679fe9311fbb67947f95359169c6e7f1fac77c0f25e190bca6cf2f",
+      "review_sha256": "5363bb2775679fe9311fbb67947f95359169c6e7f1fac77c0f25e190bca6cf2f"
+    },
+    {
+      "path": "/Users/USER/Documents/skills/.agents/skills/tdd/SKILL.md",
+      "snapshot_sha256": "af059705061156fd4845ddbb736fe92b564118ac5f03551e09ef9e8f6d970638",
+      "review_sha256": "af059705061156fd4845ddbb736fe92b564118ac5f03551e09ef9e8f6d970638"
+    },
+    {
+      "path": "/Users/USER/.codex/skills/finesse-ui/SKILL.md",
+      "snapshot_sha256": "b3c95a871163a8fbed75dca16a6530170c6311627c577dd12e05242e412a2b8c",
+      "review_sha256": "b3c95a871163a8fbed75dca16a6530170c6311627c577dd12e05242e412a2b8c"
+    },
+    {
+      "path": "/Users/USER/.codex/skills/requesting-code-review/SKILL.md",
+      "snapshot_sha256": "d71cc01ba56d2325cf8af5f7c11837819b63ecd57de0bfdb812f7f3ff7751df8",
+      "review_sha256": "d71cc01ba56d2325cf8af5f7c11837819b63ecd57de0bfdb812f7f3ff7751df8"
+    },
+    {
+      "path": "/Users/USER/.codex/skills/dispatching-parallel-agents/SKILL.md",
+      "snapshot_sha256": "1968923066f3b707eb01d1992cdf4c42284c3855f70253b9cd5000ff45fca13c",
+      "review_sha256": "1968923066f3b707eb01d1992cdf4c42284c3855f70253b9cd5000ff45fca13c"
+    },
+    {
+      "path": "/Users/USER/.codex/skills/onboarding-questionnaire/SKILL.md",
+      "snapshot_sha256": "90a903dd062eeaa49a0ec677112359a71a357935ac60764ce814c1bf79b71343",
+      "review_sha256": "90a903dd062eeaa49a0ec677112359a71a357935ac60764ce814c1bf79b71343"
+    },
+    {
+      "path": "/Users/USER/.codex/skills/planning-with-files/SKILL.md",
+      "snapshot_sha256": "7faa168c41f86eb5099e0df7422bdd0258b9da3c50d3506f8efb9c5f9e8bf972",
+      "review_sha256": "7faa168c41f86eb5099e0df7422bdd0258b9da3c50d3506f8efb9c5f9e8bf972"
+    },
+    {
+      "path": "/Users/USER/.agents/skills/planning-with-files/SKILL.md",
+      "snapshot_sha256": "01e08487a56605668947ab2e5ead083b9595f271b99f07cd8b903c1da3b94665",
+      "review_sha256": "01e08487a56605668947ab2e5ead083b9595f271b99f07cd8b903c1da3b94665"
+    },
+    {
+      "path": "/Users/USER/.agents/skills/agent-reach/SKILL.md",
+      "snapshot_sha256": "e6b1cfd553132933feed966acbd9e2f8f65d17f9fcbeeaf452dc5d7ef7d77c39",
+      "review_sha256": "e6b1cfd553132933feed966acbd9e2f8f65d17f9fcbeeaf452dc5d7ef7d77c39"
+    },
+    {
+      "path": "/Users/USER/.agents/skills/design-taste-frontend/SKILL.md",
+      "snapshot_sha256": "aa194351b246b8b4799099d4ed7b033d29eab6e6e3d58d8d2172978be7b3ec89",
+      "review_sha256": "aa194351b246b8b4799099d4ed7b033d29eab6e6e3d58d8d2172978be7b3ec89"
+    },
+    {
+      "path": "/Users/USER/.codex/skills/systematic-debugging/SKILL.md",
+      "snapshot_sha256": "922477488276a351cddee61857133a710123aea4b558a11cc3e37a0ee92b93a3",
+      "review_sha256": "922477488276a351cddee61857133a710123aea4b558a11cc3e37a0ee92b93a3"
+    },
+    {
+      "path": "/Users/USER/.codex/skills/executing-plans/SKILL.md",
+      "snapshot_sha256": "80e1494d42dfd785265df4d59151e88f35e15781d96954e2cbecb1cb143aa885",
+      "review_sha256": "80e1494d42dfd785265df4d59151e88f35e15781d96954e2cbecb1cb143aa885"
+    },
+    {
+      "path": "/Users/USER/.codex/skills/using-git-worktrees/SKILL.md",
+      "snapshot_sha256": "b9675feba26bc284a9d4ee704fac897dce551c2132e7dd3deff196716acce826",
+      "review_sha256": "b9675feba26bc284a9d4ee704fac897dce551c2132e7dd3deff196716acce826"
+    }
+  ],
+  "missing_count": 18,
+  "changed_count": 0
+}

@@ -1,0 +1,247 @@
+{
+  "created_at": "2026-11-10T13:58:26.709003+08:00",
+  "scope": "Skill instructions and necessary directly referenced rules only; no runtime configuration changes",
+  "files": [
+    {
+      "source": "/Users/USER/.agents/skills/graphify/SKILL.md",
+      "real_path": "/Users/USER/.agents/skills/graphify/SKILL.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.agents/skills/graphify/SKILL.md",
+      "sha256_before": "48d3b1bb73b52bbcb6a033384638674e54708a6ec6b8b537d49867e760e4c5bf",
+      "bytes_before": 47268,
+      "mode": "0o644",
+      "mtime_ns": 1793322535714036400
+    },
+    {
+      "source": "/Users/USER/.agents/skills/tdd/SKILL.md",
+      "real_path": "/Users/USER/.agents/skills/tdd/SKILL.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.agents/skills/tdd/SKILL.md",
+      "sha256_before": "5363bb2775679fe9311fbb67947f95359169c6e7f1fac77c0f25e190bca6cf2f",
+      "bytes_before": 3213,
+      "mode": "0o644",
+      "mtime_ns": 1783770966566209751
+    },
+    {
+      "source": "/Users/USER/Documents/skills/.agents/skills/tdd/SKILL.md",
+      "real_path": "/Users/USER/Documents/skills/.agents/skills/tdd/SKILL.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/Documents/skills/.agents/skills/tdd/SKILL.md",
+      "sha256_before": "af059705061156fd4845ddbb736fe92b564118ac5f03551e09ef9e8f6d970638",
+      "bytes_before": 4395,
+      "mode": "0o644",
+      "mtime_ns": 1781526825645819219
+    },
+    {
+      "source": "/Users/USER/.codex/skills/finesse-ui/SKILL.md",
+      "real_path": "/Users/USER/.codex/skills/finesse-ui/SKILL.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.codex/skills/finesse-ui/SKILL.md",
+      "sha256_before": "b3c95a871163a8fbed75dca16a6530170c6311627c577dd12e05242e412a2b8c",
+      "bytes_before": 78876,
+      "mode": "0o644",
+      "mtime_ns": 1791902107047170039
+    },
+    {
+      "source": "/Users/USER/.codex/skills/finesse-ui/references/asset-sourcing.md",
+      "real_path": "/Users/USER/.codex/skills/finesse-ui/references/asset-sourcing.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.codex/skills/finesse-ui/references/asset-sourcing.md",
+      "sha256_before": "9b526b3e83b219be37f915773076a152770701f247bc935d5b3c81485d15fb43",
+      "bytes_before": 14793,
+      "mode": "0o644",
+      "mtime_ns": 1791902107052843268
+    },
+    {
+      "source": "/Users/USER/.codex/skills/finesse-ui/references/divergence.md",
+      "real_path": "/Users/USER/.codex/skills/finesse-ui/references/divergence.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.codex/skills/finesse-ui/references/divergence.md",
+      "sha256_before": "867797ea63430db0a3a192d15421db5b33117b11c73fbaccfaaab1cab30b1181",
+      "bytes_before": 25305,
+      "mode": "0o644",
+      "mtime_ns": 1791902107054081764
+    },
+    {
+      "source": "/Users/USER/.codex/skills/finesse-ui/references/preflight.md",
+      "real_path": "/Users/USER/.codex/skills/finesse-ui/references/preflight.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.codex/skills/finesse-ui/references/preflight.md",
+      "sha256_before": "1139d493b309c55844e498492b01f8eb10d079d5868e372254934d974e3df019",
+      "bytes_before": 17634,
+      "mode": "0o644",
+      "mtime_ns": 1791902107056200548
+    },
+    {
+      "source": "/Users/USER/.codex/skills/finesse-ui/references/component-scope.md",
+      "real_path": "/Users/USER/.codex/skills/finesse-ui/references/component-scope.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.codex/skills/finesse-ui/references/component-scope.md",
+      "sha256_before": "9721dffd207817721ebf846002828bdecfeff49f8886a4a45fbd460ec8502485",
+      "bytes_before": 9769,
+      "mode": "0o644",
+      "mtime_ns": 1791902107053556308
+    },
+    {
+      "source": "/Users/USER/.codex/skills/requesting-code-review/SKILL.md",
+      "real_path": "/Users/USER/.codex/skills/requesting-code-review/SKILL.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.codex/skills/requesting-code-review/SKILL.md",
+      "sha256_before": "d71cc01ba56d2325cf8af5f7c11837819b63ecd57de0bfdb812f7f3ff7751df8",
+      "bytes_before": 2956,
+      "mode": "0o644",
+      "mtime_ns": 1787295523467559642
+    },
+    {
+      "source": "/Users/USER/.codex/skills/dispatching-parallel-agents/SKILL.md",
+      "real_path": "/Users/USER/.codex/skills/dispatching-parallel-agents/SKILL.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.codex/skills/dispatching-parallel-agents/SKILL.md",
+      "sha256_before": "1968923066f3b707eb01d1992cdf4c42284c3855f70253b9cd5000ff45fca13c",
+      "bytes_before": 6078,
+      "mode": "0o644",
+      "mtime_ns": 1787295523466914309
+    },
+    {
+      "source": "/Users/USER/.codex/skills/onboarding-questionnaire/SKILL.md",
+      "real_path": "/Users/USER/.codex/skills/onboarding-questionnaire/SKILL.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.codex/skills/onboarding-questionnaire/SKILL.md",
+      "sha256_before": "90a903dd062eeaa49a0ec677112359a71a357935ac60764ce814c1bf79b71343",
+      "bytes_before": 22330,
+      "mode": "0o644",
+      "mtime_ns": 1787295629824499635
+    },
+    {
+      "source": "/Users/USER/.agents/skills/ponytail/SKILL.md",
+      "real_path": "/Users/USER/.agents/skills/ponytail/SKILL.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.agents/skills/ponytail/SKILL.md",
+      "sha256_before": "d46219c7fb0faae82d0b2bf93a71c0355d72f0c2c0cce589faa87ea5c9d5061b",
+      "bytes_before": 6599,
+      "mode": "0o644",
+      "mtime_ns": 1785567570131070259
+    },
+    {
+      "source": "/Users/USER/.codex/skills/planning-with-files/SKILL.md",
+      "real_path": "/Users/USER/.codex/skills/planning-with-files/SKILL.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.codex/skills/planning-with-files/SKILL.md",
+      "sha256_before": "7faa168c41f86eb5099e0df7422bdd0258b9da3c50d3506f8efb9c5f9e8bf972",
+      "bytes_before": 28337,
+      "mode": "0o644",
+      "mtime_ns": 1786262926272485302
+    },
+    {
+      "source": "/Users/USER/.agents/skills/planning-with-files/SKILL.md",
+      "real_path": "/Users/USER/.agents/skills/planning-with-files/SKILL.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.agents/skills/planning-with-files/SKILL.md",
+      "sha256_before": "01e08487a56605668947ab2e5ead083b9595f271b99f07cd8b903c1da3b94665",
+      "bytes_before": 1533,
+      "mode": "0o600",
+      "mtime_ns": 1786936841664791357
+    },
+    {
+      "source": "/Users/USER/.agents/skills/agent-reach/SKILL.md",
+      "real_path": "/Users/USER/.agents/skills/agent-reach/SKILL.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.agents/skills/agent-reach/SKILL.md",
+      "sha256_before": "e6b1cfd553132933feed966acbd9e2f8f65d17f9fcbeeaf452dc5d7ef7d77c39",
+      "bytes_before": 6096,
+      "mode": "0o644",
+      "mtime_ns": 1784557991816790448
+    },
+    {
+      "source": "/Users/USER/.agents/skills/design-taste-frontend/SKILL.md",
+      "real_path": "/Users/USER/.agents/skills/design-taste-frontend/SKILL.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.agents/skills/design-taste-frontend/SKILL.md",
+      "sha256_before": "aa194351b246b8b4799099d4ed7b033d29eab6e6e3d58d8d2172978be7b3ec89",
+      "bytes_before": 87253,
+      "mode": "0o644",
+      "mtime_ns": 1784608122368713810
+    },
+    {
+      "source": "/Users/USER/Documents/skills/.agents/skills/design-taste-frontend/SKILL.md",
+      "real_path": "/Users/USER/Documents/skills/.agents/skills/design-taste-frontend/SKILL.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/Documents/skills/.agents/skills/design-taste-frontend/SKILL.md",
+      "sha256_before": "aa194351b246b8b4799099d4ed7b033d29eab6e6e3d58d8d2172978be7b3ec89",
+      "bytes_before": 87253,
+      "mode": "0o644",
+      "mtime_ns": 1781526835134133533
+    },
+    {
+      "source": "/Users/USER/.codex/skills/systematic-debugging/SKILL.md",
+      "real_path": "/Users/USER/.codex/skills/systematic-debugging/SKILL.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.codex/skills/systematic-debugging/SKILL.md",
+      "sha256_before": "922477488276a351cddee61857133a710123aea4b558a11cc3e37a0ee92b93a3",
+      "bytes_before": 10291,
+      "mode": "0o644",
+      "mtime_ns": 1788597925271712838
+    },
+    {
+      "source": "/Users/USER/.codex/skills/executing-plans/SKILL.md",
+      "real_path": "/Users/USER/.codex/skills/executing-plans/SKILL.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.codex/skills/executing-plans/SKILL.md",
+      "sha256_before": "80e1494d42dfd785265df4d59151e88f35e15781d96954e2cbecb1cb143aa885",
+      "bytes_before": 2762,
+      "mode": "0o644",
+      "mtime_ns": 1788594150070540873
+    },
+    {
+      "source": "/Users/USER/.codex/skills/using-git-worktrees/SKILL.md",
+      "real_path": "/Users/USER/.codex/skills/using-git-worktrees/SKILL.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.codex/skills/using-git-worktrees/SKILL.md",
+      "sha256_before": "b9675feba26bc284a9d4ee704fac897dce551c2132e7dd3deff196716acce826",
+      "bytes_before": 7756,
+      "mode": "0o644",
+      "mtime_ns": 1788597361488672798
+    },
+    {
+      "source": "/Users/USER/.agents/skills/graphify/references/github-and-merge.md",
+      "real_path": "/Users/USER/.agents/skills/graphify/references/github-and-merge.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.agents/skills/graphify/references/github-and-merge.md",
+      "sha256_before": "e5ebd90c7686f50363ff7a535556bc2f596d4c47ec1e6c8b95e11e36a0dfea2b",
+      "bytes_before": 2177,
+      "mode": "0o644",
+      "mtime_ns": 1793322532426700653,
+      "backed_up_at": "2026-11-10T14:22:33.709585+08:00"
+    },
+    {
+      "source": "/Users/USER/.agents/skills/graphify/references/exports.md",
+      "real_path": "/Users/USER/.agents/skills/graphify/references/exports.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.agents/skills/graphify/references/exports.md",
+      "sha256_before": "c39a2f8062be9a5ac319220d6e66ca586ed0b0798292b1321206834be74c1b33",
+      "bytes_before": 4774,
+      "mode": "0o644",
+      "mtime_ns": 1793322532424106687,
+      "backed_up_at": "2026-11-10T14:29:37.386986+08:00"
+    },
+    {
+      "source": "/Users/USER/.agents/skills/graphify/references/transcribe.md",
+      "real_path": "/Users/USER/.agents/skills/graphify/references/transcribe.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.agents/skills/graphify/references/transcribe.md",
+      "sha256_before": "676a1e39aa6d43cdfcc416ec56616e36f7bad74066a82bd33a9485515b9a865c",
+      "bytes_before": 3173,
+      "mode": "0o644",
+      "mtime_ns": 1793322532428436408,
+      "backed_up_at": "2026-11-10T14:29:37.386986+08:00"
+    },
+    {
+      "source": "/Users/USER/.agents/skills/graphify/references/add-watch.md",
+      "real_path": "/Users/USER/.agents/skills/graphify/references/add-watch.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.agents/skills/graphify/references/add-watch.md",
+      "sha256_before": "1e77351815547334c7e030f018dba513b303d397bf73d11fac47df03ace3b3f4",
+      "bytes_before": 2704,
+      "mode": "0o644",
+      "mtime_ns": 1793322532423845561,
+      "backed_up_at": "2026-11-10T14:29:37.386986+08:00"
+    },
+    {
+      "source": "/Users/USER/.agents/skills/graphify/references/hooks.md",
+      "real_path": "/Users/USER/.agents/skills/graphify/references/hooks.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.agents/skills/graphify/references/hooks.md",
+      "sha256_before": "7910939007ada7966681da02467302f6f1f7c392f42edecd35994aa639e4dee0",
+      "bytes_before": 1270,
+      "mode": "0o644",
+      "mtime_ns": 1793322532427632531,
+      "backed_up_at": "2026-11-10T14:29:37.386986+08:00"
+    },
+    {
+      "source": "/Users/USER/.agents/skills/graphify/references/query.md",
+      "real_path": "/Users/USER/.agents/skills/graphify/references/query.md",
+      "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/backup/Users/USER/.agents/skills/graphify/references/query.md",
+      "sha256_before": "e99011beeff0cf40dc1775b1e0cd2eab0e5f950deeeb8353ae01cbe57adbff00",
+      "bytes_before": 13724,
+      "mode": "0o644",
+      "mtime_ns": 1793322532428288491,
+      "backed_up_at": "2026-11-10T14:29:37.386986+08:00"
+    }
+  ],
+  "supplemental_backup_note": "github-and-merge reference was unchanged in revision 1; independently backed up before its revision-2 edit"
+}

@@ -1,0 +1,262 @@
+[
+  {
+    "source": "/Users/USER/.agents/skills/graphify/SKILL.md",
+    "sha256_before": "48d3b1bb73b52bbcb6a033384638674e54708a6ec6b8b537d49867e760e4c5bf",
+    "sha256_after": "05aa554d249baab03d79d3759a55cdd2d183367a1664c538fee532e987d5e303",
+    "changed": true,
+    "bytes_before": 47268,
+    "bytes_after": 47581,
+    "chars_before": 47206,
+    "chars_after": 47541
+  },
+  {
+    "source": "/Users/USER/.agents/skills/tdd/SKILL.md",
+    "sha256_before": "5363bb2775679fe9311fbb67947f95359169c6e7f1fac77c0f25e190bca6cf2f",
+    "sha256_after": "1b016312703518c84f2912030d6bfb16383ac787577ccd4109dff43ace9bd8c1",
+    "changed": true,
+    "bytes_before": 3213,
+    "bytes_after": 3212,
+    "chars_before": 3185,
+    "chars_after": 3190
+  },
+  {
+    "source": "/Users/USER/Documents/skills/.agents/skills/tdd/SKILL.md",
+    "sha256_before": "af059705061156fd4845ddbb736fe92b564118ac5f03551e09ef9e8f6d970638",
+    "sha256_after": "4a63dcb3b8b834f2aa3747c41eafaacff703711a50b5c30a12308afbac98d55f",
+    "changed": true,
+    "bytes_before": 4395,
+    "bytes_after": 4694,
+    "chars_before": 4371,
+    "chars_after": 4670
+  },
+  {
+    "source": "/Users/USER/.codex/skills/finesse-ui/SKILL.md",
+    "sha256_before": "b3c95a871163a8fbed75dca16a6530170c6311627c577dd12e05242e412a2b8c",
+    "sha256_after": "8875e08c3a96e2f975b07037c382ab7e2b87bd829fb388942fd56f30ae5e010c",
+    "changed": true,
+    "bytes_before": 78876,
+    "bytes_after": 73020,
+    "chars_before": 75143,
+    "chars_after": 69754
+  },
+  {
+    "source": "/Users/USER/.codex/skills/finesse-ui/references/asset-sourcing.md",
+    "sha256_before": "9b526b3e83b219be37f915773076a152770701f247bc935d5b3c81485d15fb43",
+    "sha256_after": "0934acc9b6dc59ab518fa73bcc6345480b249e1f4c8b32cd93b1da271c1c1b12",
+    "changed": true,
+    "bytes_before": 14793,
+    "bytes_after": 5241,
+    "chars_before": 14664,
+    "chars_after": 5241
+  },
+  {
+    "source": "/Users/USER/.codex/skills/finesse-ui/references/divergence.md",
+    "sha256_before": "867797ea63430db0a3a192d15421db5b33117b11c73fbaccfaaab1cab30b1181",
+    "sha256_after": "2c161dc9de9466b62289e259c654617f23f899c6b70f4d22de862bf9c96cd8f4",
+    "changed": true,
+    "bytes_before": 25305,
+    "bytes_after": 25748,
+    "chars_before": 24911,
+    "chars_after": 25369
+  },
+  {
+    "source": "/Users/USER/.codex/skills/finesse-ui/references/preflight.md",
+    "sha256_before": "1139d493b309c55844e498492b01f8eb10d079d5868e372254934d974e3df019",
+    "sha256_after": "f149aeb745192525bf89d796e7b198424f328203e1e9e4d5a21e2591265c6f81",
+    "changed": true,
+    "bytes_before": 17634,
+    "bytes_after": 17828,
+    "chars_before": 17240,
+    "chars_after": 17511
+  },
+  {
+    "source": "/Users/USER/.codex/skills/finesse-ui/references/component-scope.md",
+    "sha256_before": "9721dffd207817721ebf846002828bdecfeff49f8886a4a45fbd460ec8502485",
+    "sha256_after": "4f68b16acc0972e86f33869634cde74018677b4e6d8f36f5ea54080d9eaddd94",
+    "changed": true,
+    "bytes_before": 9769,
+    "bytes_after": 10426,
+    "chars_before": 9530,
+    "chars_after": 10191
+  },
+  {
+    "source": "/Users/USER/.codex/skills/requesting-code-review/SKILL.md",
+    "sha256_before": "d71cc01ba56d2325cf8af5f7c11837819b63ecd57de0bfdb812f7f3ff7751df8",
+    "sha256_after": "8b4a070eaf7633bb2167bf28a342c418cb9ca04a9f53cb2b8e92a1feab741dc2",
+    "changed": true,
+    "bytes_before": 2956,
+    "bytes_after": 3739,
+    "chars_before": 2952,
+    "chars_after": 3739
+  },
+  {
+    "source": "/Users/USER/.codex/skills/dispatching-parallel-agents/SKILL.md",
+    "sha256_before": "1968923066f3b707eb01d1992cdf4c42284c3855f70253b9cd5000ff45fca13c",
+    "sha256_after": "081b78185d532efded195d6fb5a954c4a221f8b2107df67ad4effffe14774ea8",
+    "changed": true,
+    "bytes_before": 6078,
+    "bytes_after": 6897,
+    "chars_before": 6052,
+    "chars_after": 6873
+  },
+  {
+    "source": "/Users/USER/.codex/skills/onboarding-questionnaire/SKILL.md",
+    "sha256_before": "90a903dd062eeaa49a0ec677112359a71a357935ac60764ce814c1bf79b71343",
+    "sha256_after": "a5dce35a24993f586c84718d3a3ddf5d1b36961b86ad3504ebb39ce8ce266f88",
+    "changed": true,
+    "bytes_before": 22330,
+    "bytes_after": 24080,
+    "chars_before": 22192,
+    "chars_after": 23944
+  },
+  {
+    "source": "/Users/USER/.agents/skills/ponytail/SKILL.md",
+    "sha256_before": "d46219c7fb0faae82d0b2bf93a71c0355d72f0c2c0cce589faa87ea5c9d5061b",
+    "sha256_after": "6b7a6aa196478c9f72ac2ea35f4834e6a3777374094c1b8dd3603038c0ac8b4d",
+    "changed": true,
+    "bytes_before": 6599,
+    "bytes_after": 6618,
+    "chars_before": 6599,
+    "chars_after": 6618
+  },
+  {
+    "source": "/Users/USER/.codex/skills/planning-with-files/SKILL.md",
+    "sha256_before": "7faa168c41f86eb5099e0df7422bdd0258b9da3c50d3506f8efb9c5f9e8bf972",
+    "sha256_after": "5a03387f0d0b26e2d94e542948331e6f70b32ac35393fe3b440659ace8ac3d06",
+    "changed": true,
+    "bytes_before": 28337,
+    "bytes_after": 30273,
+    "chars_before": 28261,
+    "chars_after": 30207
+  },
+  {
+    "source": "/Users/USER/.agents/skills/planning-with-files/SKILL.md",
+    "sha256_before": "01e08487a56605668947ab2e5ead083b9595f271b99f07cd8b903c1da3b94665",
+    "sha256_after": "cdb6b4f66ce9034368e9bf3db6a233b0982cd72ab7a6d1cf7639fd171965972c",
+    "changed": true,
+    "bytes_before": 1533,
+    "bytes_after": 2051,
+    "chars_before": 1517,
+    "chars_after": 2035
+  },
+  {
+    "source": "/Users/USER/.agents/skills/agent-reach/SKILL.md",
+    "sha256_before": "e6b1cfd553132933feed966acbd9e2f8f65d17f9fcbeeaf452dc5d7ef7d77c39",
+    "sha256_after": "90b3fd04ac37249d3fe5bc9004450904d8d71cb9cb3b1ca7d36373db57c70c9a",
+    "changed": true,
+    "bytes_before": 6096,
+    "bytes_after": 5345,
+    "chars_before": 4376,
+    "chars_after": 3651
+  },
+  {
+    "source": "/Users/USER/.agents/skills/design-taste-frontend/SKILL.md",
+    "sha256_before": "aa194351b246b8b4799099d4ed7b033d29eab6e6e3d58d8d2172978be7b3ec89",
+    "sha256_after": "87efe6ffe91b61c5708c6a5e05d28bebe6f8828593d0d4933f9e26673f6da8f2",
+    "changed": true,
+    "bytes_before": 87253,
+    "bytes_after": 87661,
+    "chars_before": 87126,
+    "chars_after": 87534
+  },
+  {
+    "source": "/Users/USER/Documents/skills/.agents/skills/design-taste-frontend/SKILL.md",
+    "sha256_before": "aa194351b246b8b4799099d4ed7b033d29eab6e6e3d58d8d2172978be7b3ec89",
+    "sha256_after": "87efe6ffe91b61c5708c6a5e05d28bebe6f8828593d0d4933f9e26673f6da8f2",
+    "changed": true,
+    "bytes_before": 87253,
+    "bytes_after": 87661,
+    "chars_before": 87126,
+    "chars_after": 87534
+  },
+  {
+    "source": "/Users/USER/.codex/skills/systematic-debugging/SKILL.md",
+    "sha256_before": "922477488276a351cddee61857133a710123aea4b558a11cc3e37a0ee92b93a3",
+    "sha256_after": "fb24d5f9912dddc415f84394da604f203c213ec5b44fefbf011d565895f28237",
+    "changed": true,
+    "bytes_before": 10291,
+    "bytes_after": 11273,
+    "chars_before": 10277,
+    "chars_after": 11259
+  },
+  {
+    "source": "/Users/USER/.codex/skills/executing-plans/SKILL.md",
+    "sha256_before": "80e1494d42dfd785265df4d59151e88f35e15781d96954e2cbecb1cb143aa885",
+    "sha256_after": "1ef77d26696487425d91dc1f8ef72f494e66dcc601b309595a029d9ae7320658",
+    "changed": true,
+    "bytes_before": 2762,
+    "bytes_after": 2985,
+    "chars_before": 2758,
+    "chars_after": 2981
+  },
+  {
+    "source": "/Users/USER/.codex/skills/using-git-worktrees/SKILL.md",
+    "sha256_before": "b9675feba26bc284a9d4ee704fac897dce551c2132e7dd3deff196716acce826",
+    "sha256_after": "4f2342457f0267f9973ab3458740700ce84bdaabf3fdb3fd315f79f9347e56f4",
+    "changed": true,
+    "bytes_before": 7756,
+    "bytes_after": 8181,
+    "chars_before": 7746,
+    "chars_after": 8171
+  },
+  {
+    "source": "/Users/USER/.agents/skills/graphify/references/github-and-merge.md",
+    "sha256_before": "e5ebd90c7686f50363ff7a535556bc2f596d4c47ec1e6c8b95e11e36a0dfea2b",
+    "sha256_after": "9ea60f2b5f9aea03366fcfa6b7656dc290cd0b740302db155381cdde679254a1",
+    "changed": true,
+    "bytes_before": 2177,
+    "bytes_after": 2654,
+    "chars_before": 2163,
+    "chars_after": 2642
+  },
+  {
+    "source": "/Users/USER/.agents/skills/graphify/references/exports.md",
+    "sha256_before": "c39a2f8062be9a5ac319220d6e66ca586ed0b0798292b1321206834be74c1b33",
+    "sha256_after": "48dfed6b8909ea7fe21222aa899468f67fed92273e0bf2fdd387dd36ed517609",
+    "changed": true,
+    "bytes_before": 4774,
+    "bytes_after": 5944,
+    "chars_before": 4772,
+    "chars_after": 5942
+  },
+  {
+    "source": "/Users/USER/.agents/skills/graphify/references/transcribe.md",
+    "sha256_before": "676a1e39aa6d43cdfcc416ec56616e36f7bad74066a82bd33a9485515b9a865c",
+    "sha256_after": "279b6b58f67c9929795a4540eb8346d7080705c0fa3c47b5911d3051473e117d",
+    "changed": true,
+    "bytes_before": 3173,
+    "bytes_after": 3576,
+    "chars_before": 3165,
+    "chars_after": 3568
+  },
+  {
+    "source": "/Users/USER/.agents/skills/graphify/references/add-watch.md",
+    "sha256_before": "1e77351815547334c7e030f018dba513b303d397bf73d11fac47df03ace3b3f4",
+    "sha256_after": "746f01a5bcf29b1a73d15148d7f16bfb43f597c71b42ce5117381b6049cdef8c",
+    "changed": true,
+    "bytes_before": 2704,
+    "bytes_after": 3219,
+    "chars_before": 2692,
+    "chars_after": 3207
+  },
+  {
+    "source": "/Users/USER/.agents/skills/graphify/references/hooks.md",
+    "sha256_before": "7910939007ada7966681da02467302f6f1f7c392f42edecd35994aa639e4dee0",
+    "sha256_after": "1b0a5a9674f9ff8cf21cc17ee59c163bfcd429858056c28610b5388accfeb1b0",
+    "changed": true,
+    "bytes_before": 1270,
+    "bytes_after": 1732,
+    "chars_before": 1270,
+    "chars_after": 1732
+  },
+  {
+    "source": "/Users/USER/.agents/skills/graphify/references/query.md",
+    "sha256_before": "e99011beeff0cf40dc1775b1e0cd2eab0e5f950deeeb8353ae01cbe57adbff00",
+    "sha256_after": "f283590c1dd83f16b53d91ac1a528ffbb36b31abfaec8115ab55a6fca40f6e24",
+    "changed": true,
+    "bytes_before": 13724,
+    "bytes_after": 14181,
+    "chars_before": 13678,
+    "chars_after": 14135
+  }
+]

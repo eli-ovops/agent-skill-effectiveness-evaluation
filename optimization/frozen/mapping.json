@@ -1,0 +1,226 @@
+[
+  {
+    "id": "user-graphify",
+    "source": "/Users/USER/.agents/skills/graphify/SKILL.md",
+    "arms": {
+      "before": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/before/user-graphify/SKILL.md",
+        "sha256": "48d3b1bb73b52bbcb6a033384638674e54708a6ec6b8b537d49867e760e4c5bf"
+      },
+      "after": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/after/user-graphify/SKILL.md",
+        "sha256": "e81d85bb99658c661ccec12e51183f0efe1a162785836fd20dc924819dff5541"
+      }
+    }
+  },
+  {
+    "id": "user-tdd",
+    "source": "/Users/USER/.agents/skills/tdd/SKILL.md",
+    "arms": {
+      "before": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/before/user-tdd/SKILL.md",
+        "sha256": "5363bb2775679fe9311fbb67947f95359169c6e7f1fac77c0f25e190bca6cf2f"
+      },
+      "after": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/after/user-tdd/SKILL.md",
+        "sha256": "1b016312703518c84f2912030d6bfb16383ac787577ccd4109dff43ace9bd8c1"
+      }
+    }
+  },
+  {
+    "id": "project-tdd",
+    "source": "/Users/USER/Documents/skills/.agents/skills/tdd/SKILL.md",
+    "arms": {
+      "before": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/before/project-tdd/SKILL.md",
+        "sha256": "af059705061156fd4845ddbb736fe92b564118ac5f03551e09ef9e8f6d970638"
+      },
+      "after": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/after/project-tdd/SKILL.md",
+        "sha256": "4a63dcb3b8b834f2aa3747c41eafaacff703711a50b5c30a12308afbac98d55f"
+      }
+    }
+  },
+  {
+    "id": "codex-finesse-ui",
+    "source": "/Users/USER/.codex/skills/finesse-ui/SKILL.md",
+    "arms": {
+      "before": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/before/codex-finesse-ui/SKILL.md",
+        "sha256": "b3c95a871163a8fbed75dca16a6530170c6311627c577dd12e05242e412a2b8c"
+      },
+      "after": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/after/codex-finesse-ui/SKILL.md",
+        "sha256": "8875e08c3a96e2f975b07037c382ab7e2b87bd829fb388942fd56f30ae5e010c"
+      }
+    }
+  },
+  {
+    "id": "codex-requesting-code-review",
+    "source": "/Users/USER/.codex/skills/requesting-code-review/SKILL.md",
+    "arms": {
+      "before": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/before/codex-requesting-code-review/SKILL.md",
+        "sha256": "d71cc01ba56d2325cf8af5f7c11837819b63ecd57de0bfdb812f7f3ff7751df8"
+      },
+      "after": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/after/codex-requesting-code-review/SKILL.md",
+        "sha256": "8b4a070eaf7633bb2167bf28a342c418cb9ca04a9f53cb2b8e92a1feab741dc2"
+      }
+    }
+  },
+  {
+    "id": "codex-dispatching-parallel-agents",
+    "source": "/Users/USER/.codex/skills/dispatching-parallel-agents/SKILL.md",
+    "arms": {
+      "before": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/before/codex-dispatching-parallel-agents/SKILL.md",
+        "sha256": "1968923066f3b707eb01d1992cdf4c42284c3855f70253b9cd5000ff45fca13c"
+      },
+      "after": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/after/codex-dispatching-parallel-agents/SKILL.md",
+        "sha256": "081b78185d532efded195d6fb5a954c4a221f8b2107df67ad4effffe14774ea8"
+      }
+    }
+  },
+  {
+    "id": "codex-onboarding-questionnaire",
+    "source": "/Users/USER/.codex/skills/onboarding-questionnaire/SKILL.md",
+    "arms": {
+      "before": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/before/codex-onboarding-questionnaire/SKILL.md",
+        "sha256": "90a903dd062eeaa49a0ec677112359a71a357935ac60764ce814c1bf79b71343"
+      },
+      "after": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/after/codex-onboarding-questionnaire/SKILL.md",
+        "sha256": "a5dce35a24993f586c84718d3a3ddf5d1b36961b86ad3504ebb39ce8ce266f88"
+      }
+    }
+  },
+  {
+    "id": "user-ponytail",
+    "source": "/Users/USER/.agents/skills/ponytail/SKILL.md",
+    "arms": {
+      "before": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/before/user-ponytail/SKILL.md",
+        "sha256": "d46219c7fb0faae82d0b2bf93a71c0355d72f0c2c0cce589faa87ea5c9d5061b"
+      },
+      "after": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/after/user-ponytail/SKILL.md",
+        "sha256": "6b7a6aa196478c9f72ac2ea35f4834e6a3777374094c1b8dd3603038c0ac8b4d"
+      }
+    }
+  },
+  {
+    "id": "codex-planning-with-files",
+    "source": "/Users/USER/.codex/skills/planning-with-files/SKILL.md",
+    "arms": {
+      "before": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/before/codex-planning-with-files/SKILL.md",
+        "sha256": "7faa168c41f86eb5099e0df7422bdd0258b9da3c50d3506f8efb9c5f9e8bf972"
+      },
+      "after": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/after/codex-planning-with-files/SKILL.md",
+        "sha256": "5a03387f0d0b26e2d94e542948331e6f70b32ac35393fe3b440659ace8ac3d06"
+      }
+    }
+  },
+  {
+    "id": "user-planning-with-files",
+    "source": "/Users/USER/.agents/skills/planning-with-files/SKILL.md",
+    "arms": {
+      "before": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/before/user-planning-with-files/SKILL.md",
+        "sha256": "01e08487a56605668947ab2e5ead083b9595f271b99f07cd8b903c1da3b94665"
+      },
+      "after": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/after/user-planning-with-files/SKILL.md",
+        "sha256": "cdb6b4f66ce9034368e9bf3db6a233b0982cd72ab7a6d1cf7639fd171965972c"
+      }
+    }
+  },
+  {
+    "id": "user-agent-reach",
+    "source": "/Users/USER/.agents/skills/agent-reach/SKILL.md",
+    "arms": {
+      "before": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/before/user-agent-reach/SKILL.md",
+        "sha256": "e6b1cfd553132933feed966acbd9e2f8f65d17f9fcbeeaf452dc5d7ef7d77c39"
+      },
+      "after": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/after/user-agent-reach/SKILL.md",
+        "sha256": "90b3fd04ac37249d3fe5bc9004450904d8d71cb9cb3b1ca7d36373db57c70c9a"
+      }
+    }
+  },
+  {
+    "id": "user-design-taste-frontend",
+    "source": "/Users/USER/.agents/skills/design-taste-frontend/SKILL.md",
+    "arms": {
+      "before": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/before/user-design-taste-frontend/SKILL.md",
+        "sha256": "aa194351b246b8b4799099d4ed7b033d29eab6e6e3d58d8d2172978be7b3ec89"
+      },
+      "after": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/after/user-design-taste-frontend/SKILL.md",
+        "sha256": "87efe6ffe91b61c5708c6a5e05d28bebe6f8828593d0d4933f9e26673f6da8f2"
+      }
+    }
+  },
+  {
+    "id": "project-design-taste-frontend",
+    "source": "/Users/USER/Documents/skills/.agents/skills/design-taste-frontend/SKILL.md",
+    "arms": {
+      "before": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/before/project-design-taste-frontend/SKILL.md",
+        "sha256": "aa194351b246b8b4799099d4ed7b033d29eab6e6e3d58d8d2172978be7b3ec89"
+      },
+      "after": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/after/project-design-taste-frontend/SKILL.md",
+        "sha256": "87efe6ffe91b61c5708c6a5e05d28bebe6f8828593d0d4933f9e26673f6da8f2"
+      }
+    }
+  },
+  {
+    "id": "codex-systematic-debugging",
+    "source": "/Users/USER/.codex/skills/systematic-debugging/SKILL.md",
+    "arms": {
+      "before": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/before/codex-systematic-debugging/SKILL.md",
+        "sha256": "922477488276a351cddee61857133a710123aea4b558a11cc3e37a0ee92b93a3"
+      },
+      "after": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/after/codex-systematic-debugging/SKILL.md",
+        "sha256": "fb24d5f9912dddc415f84394da604f203c213ec5b44fefbf011d565895f28237"
+      }
+    }
+  },
+  {
+    "id": "codex-executing-plans",
+    "source": "/Users/USER/.codex/skills/executing-plans/SKILL.md",
+    "arms": {
+      "before": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/before/codex-executing-plans/SKILL.md",
+        "sha256": "80e1494d42dfd785265df4d59151e88f35e15781d96954e2cbecb1cb143aa885"
+      },
+      "after": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/after/codex-executing-plans/SKILL.md",
+        "sha256": "1ef77d26696487425d91dc1f8ef72f494e66dcc601b309595a029d9ae7320658"
+      }
+    }
+  },
+  {
+    "id": "codex-using-git-worktrees",
+    "source": "/Users/USER/.codex/skills/using-git-worktrees/SKILL.md",
+    "arms": {
+      "before": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/before/codex-using-git-worktrees/SKILL.md",
+        "sha256": "b9675feba26bc284a9d4ee704fac897dce551c2132e7dd3deff196716acce826"
+      },
+      "after": {
+        "entry": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/frozen/after/codex-using-git-worktrees/SKILL.md",
+        "sha256": "4f2342457f0267f9973ab3458740700ce84bdaabf3fdb3fd315f79f9347e56f4"
+      }
+    }
+  }
+]

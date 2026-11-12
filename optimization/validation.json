@@ -1,0 +1,211 @@
+{
+  "time": "2026-11-10T14:33:34.600283+08:00",
+  "status": "PASS",
+  "failures": [],
+  "changed_files": 26,
+  "files": [
+    {
+      "source": "/Users/USER/.agents/skills/graphify/SKILL.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": [],
+      "frontmatter": "valid YAML; identity and unrelated metadata preserved",
+      "bundled_validator_extensions": []
+    },
+    {
+      "source": "/Users/USER/.agents/skills/tdd/SKILL.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": [],
+      "frontmatter": "valid YAML; identity and unrelated metadata preserved",
+      "bundled_validator_extensions": []
+    },
+    {
+      "source": "/Users/USER/Documents/skills/.agents/skills/tdd/SKILL.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": [],
+      "frontmatter": "valid YAML; identity and unrelated metadata preserved",
+      "bundled_validator_extensions": []
+    },
+    {
+      "source": "/Users/USER/.codex/skills/finesse-ui/SKILL.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": [],
+      "frontmatter": "valid YAML; identity and unrelated metadata preserved",
+      "bundled_validator_extensions": [
+        "argument-hint",
+        "user-invocable",
+        "version"
+      ]
+    },
+    {
+      "source": "/Users/USER/.codex/skills/finesse-ui/references/asset-sourcing.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": []
+    },
+    {
+      "source": "/Users/USER/.codex/skills/finesse-ui/references/divergence.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": []
+    },
+    {
+      "source": "/Users/USER/.codex/skills/finesse-ui/references/preflight.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": []
+    },
+    {
+      "source": "/Users/USER/.codex/skills/finesse-ui/references/component-scope.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": []
+    },
+    {
+      "source": "/Users/USER/.codex/skills/requesting-code-review/SKILL.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": [],
+      "frontmatter": "valid YAML; identity and unrelated metadata preserved",
+      "bundled_validator_extensions": []
+    },
+    {
+      "source": "/Users/USER/.codex/skills/dispatching-parallel-agents/SKILL.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": [],
+      "frontmatter": "valid YAML; identity and unrelated metadata preserved",
+      "bundled_validator_extensions": []
+    },
+    {
+      "source": "/Users/USER/.codex/skills/onboarding-questionnaire/SKILL.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": [],
+      "frontmatter": "valid YAML; identity and unrelated metadata preserved",
+      "bundled_validator_extensions": [
+        "user-invocable"
+      ]
+    },
+    {
+      "source": "/Users/USER/.agents/skills/ponytail/SKILL.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": [],
+      "frontmatter": "valid YAML; identity and unrelated metadata preserved",
+      "bundled_validator_extensions": [
+        "argument-hint"
+      ]
+    },
+    {
+      "source": "/Users/USER/.codex/skills/planning-with-files/SKILL.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": [],
+      "frontmatter": "valid YAML; identity and unrelated metadata preserved",
+      "bundled_validator_extensions": [
+        "hooks",
+        "user-invocable"
+      ]
+    },
+    {
+      "source": "/Users/USER/.agents/skills/planning-with-files/SKILL.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": [],
+      "frontmatter": "valid YAML; identity and unrelated metadata preserved",
+      "bundled_validator_extensions": []
+    },
+    {
+      "source": "/Users/USER/.agents/skills/agent-reach/SKILL.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": [],
+      "frontmatter": "valid YAML; identity and unrelated metadata preserved",
+      "bundled_validator_extensions": [
+        "triggers"
+      ]
+    },
+    {
+      "source": "/Users/USER/.agents/skills/design-taste-frontend/SKILL.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": [],
+      "frontmatter": "valid YAML; identity and unrelated metadata preserved",
+      "bundled_validator_extensions": []
+    },
+    {
+      "source": "/Users/USER/Documents/skills/.agents/skills/design-taste-frontend/SKILL.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": [],
+      "frontmatter": "valid YAML; identity and unrelated metadata preserved",
+      "bundled_validator_extensions": []
+    },
+    {
+      "source": "/Users/USER/.codex/skills/systematic-debugging/SKILL.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": [],
+      "frontmatter": "valid YAML; identity and unrelated metadata preserved",
+      "bundled_validator_extensions": []
+    },
+    {
+      "source": "/Users/USER/.codex/skills/executing-plans/SKILL.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": [],
+      "frontmatter": "valid YAML; identity and unrelated metadata preserved",
+      "bundled_validator_extensions": []
+    },
+    {
+      "source": "/Users/USER/.codex/skills/using-git-worktrees/SKILL.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": [],
+      "frontmatter": "valid YAML; identity and unrelated metadata preserved",
+      "bundled_validator_extensions": []
+    },
+    {
+      "source": "/Users/USER/.agents/skills/graphify/references/github-and-merge.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": []
+    },
+    {
+      "source": "/Users/USER/.agents/skills/graphify/references/exports.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": []
+    },
+    {
+      "source": "/Users/USER/.agents/skills/graphify/references/transcribe.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": []
+    },
+    {
+      "source": "/Users/USER/.agents/skills/graphify/references/add-watch.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": []
+    },
+    {
+      "source": "/Users/USER/.agents/skills/graphify/references/hooks.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": []
+    },
+    {
+      "source": "/Users/USER/.agents/skills/graphify/references/query.md",
+      "backup_verified": true,
+      "new_missing_references": [],
+      "existing_missing_references": []
+    }
+  ],
+  "bundled_validator": "not run: default Python lacks PyYAML; independent Psych YAML validation used; existing host extensions retained",
+  "behavior_status": "pending independent paired evaluation; static checks do not prove compliance"
+}

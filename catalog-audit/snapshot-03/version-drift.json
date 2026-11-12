@@ -1,0 +1,29 @@
+{
+  "from": "snapshot-02",
+  "to": "snapshot-03",
+  "added": [
+    "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/amazon-ads/SKILL.md",
+    "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/budget-pacing/SKILL.md",
+    "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/campaign-launch/SKILL.md",
+    "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/campaign-management/SKILL.md",
+    "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/get-started/SKILL.md",
+    "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/google-ads/SKILL.md",
+    "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/google-analytics-4/SKILL.md",
+    "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/google-merchant-center/SKILL.md",
+    "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/google-search-console/SKILL.md",
+    "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/instagram/SKILL.md",
+    "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/linkedin-ads/SKILL.md",
+    "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/marketing-performance-review/SKILL.md",
+    "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/meta-ads/SKILL.md",
+    "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/microsoft-ads/SKILL.md",
+    "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/scheduled-exports/SKILL.md",
+    "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/tiktok-ads/SKILL.md",
+    "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/wasted-spend-audit/SKILL.md",
+    "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.1.0/skills/windsor/SKILL.md"
+  ],
+  "removed": [
+    "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.0.9/skills/get-started/SKILL.md",
+    "/Users/USER/.codex/plugins/cache/openai-curated-remote/windsor-ai/4.0.9/skills/windsor/SKILL.md"
+  ],
+  "content_changed": []
+}

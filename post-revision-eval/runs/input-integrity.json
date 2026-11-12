@@ -1,0 +1,74 @@
+[
+  {
+    "case": "case-01",
+    "task_unchanged": true,
+    "target_resources_unchanged": true,
+    "common_resources_unchanged": true,
+    "source_thread_id": "01a1c41b-899c-7ab3-91ef-ee15c5a24feb",
+    "turn_id": "01a1c41b-8a94-7131-9700-09ac70d35d6e",
+    "duration_ms": 134524,
+    "commands": 14,
+    "file_change_events": 4,
+    "truncated_outputs": 0
+  },
+  {
+    "case": "case-02",
+    "task_unchanged": true,
+    "target_resources_unchanged": true,
+    "common_resources_unchanged": true,
+    "source_thread_id": "01a1c41b-aad2-70d3-b00a-d6ddc323b817",
+    "turn_id": "01a1c41b-aaf3-78e2-8a2c-b8bc6748346a",
+    "duration_ms": 93784,
+    "commands": 8,
+    "file_change_events": 2,
+    "truncated_outputs": 0
+  },
+  {
+    "case": "case-03",
+    "task_unchanged": true,
+    "target_resources_unchanged": true,
+    "common_resources_unchanged": true,
+    "source_thread_id": "01a1c41d-c38f-75e2-a9cd-6feec3b32a40",
+    "turn_id": "01a1c41d-c3aa-71f3-9f76-5c32a41a6c10",
+    "duration_ms": 74410,
+    "commands": 7,
+    "file_change_events": 3,
+    "truncated_outputs": 0
+  },
+  {
+    "case": "case-04",
+    "task_unchanged": true,
+    "target_resources_unchanged": true,
+    "common_resources_unchanged": true,
+    "source_thread_id": "01a1c41d-e5ec-7fa3-903a-f8b76543d6ab",
+    "turn_id": "01a1c41d-e616-7142-a7c7-185232f07123",
+    "duration_ms": 93791,
+    "commands": 13,
+    "file_change_events": 3,
+    "truncated_outputs": 0
+  },
+  {
+    "case": "case-05",
+    "task_unchanged": true,
+    "target_resources_unchanged": true,
+    "common_resources_unchanged": true,
+    "source_thread_id": "01a1c41f-8b64-75c0-9401-49064f678ce9",
+    "turn_id": "01a1c41f-8b91-74f2-bdf0-88b0252a4a2d",
+    "duration_ms": 81462,
+    "commands": 10,
+    "file_change_events": 1,
+    "truncated_outputs": 0
+  },
+  {
+    "case": "case-06",
+    "task_unchanged": true,
+    "target_resources_unchanged": true,
+    "common_resources_unchanged": true,
+    "source_thread_id": "01a1c41f-ac89-74f2-a261-14fa6534bda5",
+    "turn_id": "01a1c41f-aca5-7b40-afaa-23c294c0d850",
+    "duration_ms": 96638,
+    "commands": 13,
+    "file_change_events": 1,
+    "truncated_outputs": 0
+  }
+]

@@ -1,0 +1,6 @@
+61b486319dd1fb5c87802ed369453ad38d5bd0685f9a0c6e06ed79774939f600  behavior/tdd-A/TASK.md
+61b486319dd1fb5c87802ed369453ad38d5bd0685f9a0c6e06ed79774939f600  behavior/tdd-B/TASK.md
+5f00ce0246bd323f5a9c4da1d65d9fa5fa619929f352bf33cef8ea5d1695d840  behavior/tdd-A/names.py
+5f00ce0246bd323f5a9c4da1d65d9fa5fa619929f352bf33cef8ea5d1695d840  behavior/tdd-B/names.py
+af059705061156fd4845ddbb736fe92b564118ac5f03551e09ef9e8f6d970638  /Users/USER/Documents/skills/.agents/skills/tdd/SKILL.md
+af059705061156fd4845ddbb736fe92b564118ac5f03551e09ef9e8f6d970638  behavior/tdd-SKILL.snapshot.md

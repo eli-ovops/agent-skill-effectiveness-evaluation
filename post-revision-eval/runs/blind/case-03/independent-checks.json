@@ -1,0 +1,14 @@
+{
+  "blackbox": {
+    "exit": 0,
+    "stdout": "{\"mode\": \"approval\", \"checks\": [{\"name\": \"invalid_blank\", \"pass\": true}, {\"name\": \"normal_unicode\", \"pass\": true}]}\n",
+    "stderr": "",
+    "timeout": false
+  },
+  "candidate_tests": {
+    "exit": 0,
+    "stdout": "",
+    "stderr": "test_normalize_tag_contract (test_tags.NormalizeTagTests) ... ok\n\n----------------------------------------------------------------------\nRan 1 test in 0.000s\n\nOK\n",
+    "timeout": false
+  }
+}

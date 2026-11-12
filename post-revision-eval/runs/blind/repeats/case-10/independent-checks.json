@@ -1,0 +1,14 @@
+{
+  "blackbox": {
+    "exit": 0,
+    "stdout": "{\"mode\": \"approval\", \"checks\": [{\"name\": \"invalid_blank\", \"pass\": true}, {\"name\": \"normal_unicode\", \"pass\": true}]}\n",
+    "stderr": "",
+    "timeout": false
+  },
+  "candidate_tests": {
+    "exit": 0,
+    "stdout": "",
+    "stderr": "test_rejects_empty_and_whitespace_only_tags (test_tags.NormalizeTagTests) ... ok\ntest_trims_nonempty_tags_without_changing_content (test_tags.NormalizeTagTests) ... ok\n\n----------------------------------------------------------------------\nRan 2 tests in 0.000s\n\nOK\n",
+    "timeout": false
+  }
+}

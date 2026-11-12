@@ -1,0 +1,60 @@
+{
+  "static_validation": "PASS",
+  "final_sources_verified": true,
+  "original_backups_verified": true,
+  "changed_source_files": 26,
+  "independent_candidates": 10,
+  "all_candidate_blackbox_and_tests_pass": true,
+  "distinct_candidate_sessions": 10,
+  "pairs": [
+    {
+      "before": 1,
+      "after": 2,
+      "seconds_before": 134.524,
+      "seconds_after": 93.784,
+      "output_before": 5799,
+      "output_after": 4024
+    },
+    {
+      "before": 4,
+      "after": 3,
+      "seconds_before": 93.791,
+      "seconds_after": 74.41,
+      "output_before": 3655,
+      "output_after": 2730
+    },
+    {
+      "before": 6,
+      "after": 5,
+      "seconds_before": 96.638,
+      "seconds_after": 81.462,
+      "output_before": 3846,
+      "output_after": 3252
+    },
+    {
+      "before": 8,
+      "after": 7,
+      "seconds_before": 102.103,
+      "seconds_after": 109.707,
+      "output_before": 4392,
+      "output_after": 4472
+    },
+    {
+      "before": 9,
+      "after": 10,
+      "seconds_before": 89.972,
+      "seconds_after": 90.53,
+      "output_before": 2805,
+      "output_after": 3320
+    }
+  ],
+  "native_candidate_totals": {
+    "input_tokens": 4937860,
+    "cached_input_tokens": 4794240,
+    "output_tokens": 38295,
+    "reasoning_output_tokens": 14462
+  },
+  "fees": "UNKNOWN",
+  "whole_library_efficiency": "not established",
+  "scope": "three synthetic task types; five pairs; actual service identity and exact shared catalog equality UNKNOWN; external/credential behavior not tested"
+}

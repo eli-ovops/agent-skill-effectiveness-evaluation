@@ -1,0 +1,46 @@
+[
+  {
+    "source": "/Users/USER/.codex/sessions/2026/11/10/rollout-2026-11-10T11-43-03-01a1c38d-5c81-7250-9176-dc73a061d0db.jsonl",
+    "line": 602,
+    "timestamp": "2026-11-10T04:48:15.678Z",
+    "call_id": "call_7b3b382e640f42599a6857e472143b1e",
+    "task_name": "video_a",
+    "agent_type": "worker",
+    "fork_turns": "none",
+    "model_override_set": false,
+    "effort_override_set": false
+  },
+  {
+    "source": "/Users/USER/.codex/sessions/2026/11/10/rollout-2026-11-10T11-43-03-01a1c38d-5c81-7250-9176-dc73a061d0db.jsonl",
+    "line": 608,
+    "timestamp": "2026-11-10T04:48:23.800Z",
+    "call_id": "call_30b0491ce1a4417c834fdfad0c2dbc62",
+    "task_name": "video_b",
+    "agent_type": "worker",
+    "fork_turns": "none",
+    "model_override_set": false,
+    "effort_override_set": false
+  },
+  {
+    "source": "/Users/USER/.codex/sessions/2026/11/10/rollout-2026-11-10T11-43-03-01a1c38d-5c81-7250-9176-dc73a061d0db.jsonl",
+    "line": 661,
+    "timestamp": "2026-11-10T04:49:56.300Z",
+    "call_id": "call_0d26f75e3f25406ab07a391044fd167f",
+    "task_name": "diagnose_a",
+    "agent_type": "worker",
+    "fork_turns": "none",
+    "model_override_set": false,
+    "effort_override_set": false
+  },
+  {
+    "source": "/Users/USER/.codex/sessions/2026/11/10/rollout-2026-11-10T11-43-03-01a1c38d-5c81-7250-9176-dc73a061d0db.jsonl",
+    "line": 667,
+    "timestamp": "2026-11-10T04:50:05.358Z",
+    "call_id": "call_0c5066fa367d4ddfb7006e886cfe51d8",
+    "task_name": "diagnose_b",
+    "agent_type": "worker",
+    "fork_turns": "none",
+    "model_override_set": false,
+    "effort_override_set": false
+  }
+]

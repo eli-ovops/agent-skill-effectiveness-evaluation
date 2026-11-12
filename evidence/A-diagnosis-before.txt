@@ -1,0 +1,3 @@
+10/12 checks passed
+cart_total(45, 0) = 55; expected 45
+invoice_total(45, 0) = 55; expected 45

@@ -1,0 +1,14 @@
+{
+  "blackbox": {
+    "exit": 0,
+    "stdout": "{\"mode\": \"complete\", \"checks\": [{\"name\": \"empty\", \"pass\": true}, {\"name\": \"aggregate_sorted\", \"pass\": true}, {\"name\": \"unicode_and_case\", \"pass\": true}, {\"name\": \"invalid_groups\", \"pass\": true}, {\"name\": \"invalid_units\", \"pass\": true}, {\"name\": \"formatted_example\", \"pass\": true}, {\"name\": \"formatted_empty\", \"pass\": true}]}\n",
+    "stderr": "",
+    "timeout": false
+  },
+  "candidate_tests": {
+    "exit": 0,
+    "stdout": "",
+    "stderr": "test_empty_list (test_summary.SummaryTests) ... ok\ntest_format_sorts_groups_even_when_input_is_unsorted (test_summary.SummaryTests) ... ok\ntest_groups_trim_names_preserve_case_and_include_zero (test_summary.SummaryTests) ... ok\ntest_invalid_records_raise_value_error (test_summary.SummaryTests) ... ok\n\n----------------------------------------------------------------------\nRan 4 tests in 0.000s\n\nOK\n",
+    "timeout": false
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "source": "/Users/USER/.agents/skills/graphify/SKILL.md",
+    "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/revision-2/before/SKILL.md",
+    "sha256_before_revision2": "e81d85bb99658c661ccec12e51183f0efe1a162785836fd20dc924819dff5541",
+    "backed_up_at": "2026-11-10T14:22:33.709585+08:00"
+  },
+  {
+    "source": "/Users/USER/.agents/skills/graphify/references/github-and-merge.md",
+    "backup": "/Users/USER/Documents/skills/evaluations/2026-11-10-skill-effectiveness/optimization/revision-2/before/references/github-and-merge.md",
+    "sha256_before_revision2": "e5ebd90c7686f50363ff7a535556bc2f596d4c47ec1e6c8b95e11e36a0dfea2b",
+    "backed_up_at": "2026-11-10T14:22:33.709585+08:00"
+  }
+]

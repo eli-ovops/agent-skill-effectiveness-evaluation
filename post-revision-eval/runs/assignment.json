@@ -1,0 +1,104 @@
+[
+  {
+    "case": "case-01",
+    "fixture": "complete",
+    "target": "user-ponytail",
+    "arm": "before",
+    "target_frozen": {
+      "entry_sha256": "d46219c7fb0faae82d0b2bf93a71c0355d72f0c2c0cce589faa87ea5c9d5061b",
+      "resources": 1
+    },
+    "common_frozen": null,
+    "fixture_sha256": {
+      "summary.py": "46ec60c2d622b0635cb89a2a37716176e0c6e61bd75ba6bf40233f1a13e95ddc",
+      "TASK.md": "b96bf170668a1dfb57a21f9e3e7675224b869f4f840aa36a46999bac4dd2fede"
+    }
+  },
+  {
+    "case": "case-02",
+    "fixture": "complete",
+    "target": "user-ponytail",
+    "arm": "after",
+    "target_frozen": {
+      "entry_sha256": "6b7a6aa196478c9f72ac2ea35f4834e6a3777374094c1b8dd3603038c0ac8b4d",
+      "resources": 1
+    },
+    "common_frozen": null,
+    "fixture_sha256": {
+      "summary.py": "46ec60c2d622b0635cb89a2a37716176e0c6e61bd75ba6bf40233f1a13e95ddc",
+      "TASK.md": "b96bf170668a1dfb57a21f9e3e7675224b869f4f840aa36a46999bac4dd2fede"
+    }
+  },
+  {
+    "case": "case-03",
+    "fixture": "approval",
+    "target": "user-tdd",
+    "arm": "after",
+    "target_frozen": {
+      "entry_sha256": "1b016312703518c84f2912030d6bfb16383ac787577ccd4109dff43ace9bd8c1",
+      "resources": 3
+    },
+    "common_frozen": {
+      "entry_sha256": "6b7a6aa196478c9f72ac2ea35f4834e6a3777374094c1b8dd3603038c0ac8b4d",
+      "resources": 1
+    },
+    "fixture_sha256": {
+      "tags.py": "74bca2524e4dc1662ebc323cc013bfb0c8bd347e9b03d0eab1d0622151ddc62a",
+      "TASK.md": "76c68c1af264b55dd283d2380688a47832abcddb13d70997767e61df54f0af54"
+    }
+  },
+  {
+    "case": "case-04",
+    "fixture": "approval",
+    "target": "user-tdd",
+    "arm": "before",
+    "target_frozen": {
+      "entry_sha256": "5363bb2775679fe9311fbb67947f95359169c6e7f1fac77c0f25e190bca6cf2f",
+      "resources": 3
+    },
+    "common_frozen": {
+      "entry_sha256": "6b7a6aa196478c9f72ac2ea35f4834e6a3777374094c1b8dd3603038c0ac8b4d",
+      "resources": 1
+    },
+    "fixture_sha256": {
+      "tags.py": "74bca2524e4dc1662ebc323cc013bfb0c8bd347e9b03d0eab1d0622151ddc62a",
+      "TASK.md": "76c68c1af264b55dd283d2380688a47832abcddb13d70997767e61df54f0af54"
+    }
+  },
+  {
+    "case": "case-05",
+    "fixture": "diagnosis",
+    "target": "codex-systematic-debugging",
+    "arm": "after",
+    "target_frozen": {
+      "entry_sha256": "fb24d5f9912dddc415f84394da604f203c213ec5b44fefbf011d565895f28237",
+      "resources": 9
+    },
+    "common_frozen": {
+      "entry_sha256": "6b7a6aa196478c9f72ac2ea35f4834e6a3777374094c1b8dd3603038c0ac8b4d",
+      "resources": 1
+    },
+    "fixture_sha256": {
+      "delays.py": "5a675f54f117e1387c894f0665abb5fecd9431f082fa243dc4aaac2203b0b71c",
+      "TASK.md": "e1aea0e2d55d2e0779511e5b768302c8ea80dad156f00ec882f375f382c42c95"
+    }
+  },
+  {
+    "case": "case-06",
+    "fixture": "diagnosis",
+    "target": "codex-systematic-debugging",
+    "arm": "before",
+    "target_frozen": {
+      "entry_sha256": "922477488276a351cddee61857133a710123aea4b558a11cc3e37a0ee92b93a3",
+      "resources": 9
+    },
+    "common_frozen": {
+      "entry_sha256": "6b7a6aa196478c9f72ac2ea35f4834e6a3777374094c1b8dd3603038c0ac8b4d",
+      "resources": 1
+    },
+    "fixture_sha256": {
+      "delays.py": "5a675f54f117e1387c894f0665abb5fecd9431f082fa243dc4aaac2203b0b71c",
+      "TASK.md": "e1aea0e2d55d2e0779511e5b768302c8ea80dad156f00ec882f375f382c42c95"
+    }
+  }
+]

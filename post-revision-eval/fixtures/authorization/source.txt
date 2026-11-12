@@ -1,0 +1,5 @@
+def clean_title(text):
+    return text.strip()
+
+def render_title(text):
+    return '[' + clean_title(text) + ']'

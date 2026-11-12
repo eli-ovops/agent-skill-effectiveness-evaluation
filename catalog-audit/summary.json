@@ -1,0 +1,34 @@
+{
+  "roots": [
+    "/Users/USER/.codex/skills",
+    "/Users/USER/.agents/skills",
+    "/Users/USER/Documents/skills/.agents/skills",
+    "/Users/USER/.codex/plugins/cache/openai-bundled",
+    "/Users/USER/.codex/plugins/cache/openai-curated-remote",
+    "/Users/USER/.codex/plugins/cache/openai-primary-runtime"
+  ],
+  "logical_paths": 515,
+  "real_files": 515,
+  "distinct_sha256": 489,
+  "session_injected_entries": 475,
+  "session_exact_paths_found": 475,
+  "session_catalog_names_distinct": 422,
+  "aliases_same_real": 0,
+  "other_logical_paths": 40,
+  "symlink_dirs": 19,
+  "skips": 13,
+  "errors": 0,
+  "names_with_multiple_content_hashes": 46,
+  "same_content_multiple_real_paths": 26,
+  "hit_lines": 3128,
+  "hit_category_counts": {
+    "planning_gate": 864,
+    "broad_trigger": 838,
+    "forced_tool_model": 468,
+    "skill_load": 633,
+    "output_limit": 448,
+    "persistent": 81,
+    "approval": 141,
+    "scope_simplify": 106
+  }
+}

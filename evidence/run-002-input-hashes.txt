@@ -1,0 +1,8 @@
+3d49c2b01d0b769d455c5dab32cb6f85bd5923f55e2ad7a59f27a66907be87ae  independent/run-002/video-A/TASK.md
+3d49c2b01d0b769d455c5dab32cb6f85bd5923f55e2ad7a59f27a66907be87ae  independent/run-002/video-B/TASK.md
+d1663cc4570f9425d9a11e5c91d9731954a3d6ef690703c593d1550343b45ada  independent/run-002/diagnose-A/TASK.md
+d1663cc4570f9425d9a11e5c91d9731954a3d6ef690703c593d1550343b45ada  independent/run-002/diagnose-B/TASK.md
+32fb1f9f15b674a32d2903b73ab984181c5bf42d2d15c1410cbed50ebb395a3e  independent/run-002/diagnose-A/orders.py
+32fb1f9f15b674a32d2903b73ab984181c5bf42d2d15c1410cbed50ebb395a3e  independent/run-002/diagnose-B/orders.py
+77b53d5c08e7ef8897ae83f20375a0e2975170d1a4c4148bee704070696b1083  independent/run-002/diagnose-A/check.py
+77b53d5c08e7ef8897ae83f20375a0e2975170d1a4c4148bee704070696b1083  independent/run-002/diagnose-B/check.py

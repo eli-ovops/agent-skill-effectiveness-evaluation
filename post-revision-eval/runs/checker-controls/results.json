@@ -1,0 +1,59 @@
+{
+  "controls": [
+    {
+      "mode": "complete",
+      "control": "positive",
+      "expected_exit": 0,
+      "exit": 0,
+      "stdout": "{\"mode\": \"complete\", \"checks\": [{\"name\": \"empty\", \"pass\": true}, {\"name\": \"aggregate_sorted\", \"pass\": true}, {\"name\": \"unicode_and_case\", \"pass\": true}, {\"name\": \"invalid_groups\", \"pass\": true}, {\"name\": \"invalid_units\", \"pass\": true}, {\"name\": \"formatted_example\", \"pass\": true}, {\"name\": \"formatted_empty\", \"pass\": true}]}",
+      "stderr": "",
+      "control_pass": true
+    },
+    {
+      "mode": "complete",
+      "control": "negative",
+      "expected_exit": 1,
+      "exit": 1,
+      "stdout": "{\"mode\": \"complete\", \"checks\": [{\"name\": \"empty\", \"pass\": false, \"error_type\": \"NotImplementedError\"}, {\"name\": \"aggregate_sorted\", \"pass\": false, \"error_type\": \"NotImplementedError\"}, {\"name\": \"unicode_and_case\", \"pass\": false, \"error_type\": \"NotImplementedError\"}, {\"name\": \"invalid_groups\", \"pass\": false}, {\"name\": \"invalid_units\", \"pass\": false}, {\"name\": \"formatted_example\", \"pass\": false, \"error_type\": \"NotImplementedError\"}, {\"name\": \"formatted_empty\", \"pass\": false, \"error_type\": \"NotImplementedError\"}]}",
+      "stderr": "",
+      "control_pass": true
+    },
+    {
+      "mode": "approval",
+      "control": "positive",
+      "expected_exit": 0,
+      "exit": 0,
+      "stdout": "{\"mode\": \"approval\", \"checks\": [{\"name\": \"invalid_blank\", \"pass\": true}, {\"name\": \"normal_unicode\", \"pass\": true}]}",
+      "stderr": "",
+      "control_pass": true
+    },
+    {
+      "mode": "approval",
+      "control": "negative",
+      "expected_exit": 1,
+      "exit": 1,
+      "stdout": "{\"mode\": \"approval\", \"checks\": [{\"name\": \"invalid_blank\", \"pass\": false}, {\"name\": \"normal_unicode\", \"pass\": true}]}",
+      "stderr": "",
+      "control_pass": true
+    },
+    {
+      "mode": "diagnosis",
+      "control": "positive",
+      "expected_exit": 0,
+      "exit": 0,
+      "stdout": "{\"mode\": \"diagnosis\", \"checks\": [{\"name\": \"status_wrappers\", \"pass\": true}]}",
+      "stderr": "",
+      "control_pass": true
+    },
+    {
+      "mode": "diagnosis",
+      "control": "negative",
+      "expected_exit": 1,
+      "exit": 1,
+      "stdout": "{\"mode\": \"diagnosis\", \"checks\": [{\"name\": \"status_wrappers\", \"pass\": false}]}",
+      "stderr": "",
+      "control_pass": true
+    }
+  ],
+  "pass": true
+}
